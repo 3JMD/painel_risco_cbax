@@ -1,0 +1,60 @@
+<!DOCTYPE html><html lang="pt-BR"><head><meta charset="UTF-8">
+<title>Correntes de Retorno — CBMERJ</title><style>
+body{font-family:system-ui;background:#0f1722;color:#e8eef4;max-width:1050px;
+margin:0 auto;padding:22px}h1{font-size:1.3rem}h2{font-size:1.02rem;
+color:#4cc9f0;margin-top:26px}.sub{color:#9db0c0;font-size:.85rem;line-height:1.5}
+table{border-collapse:collapse;font-size:.82rem;margin-top:10px}
+td,th{padding:6px 9px;border:1px solid #223;text-align:center}
+td.hd,th{color:#9db0c0;font-weight:600}
+.box{background:#18232f;border:1px solid #2a3947;border-radius:10px;
+padding:14px 16px;margin:14px 0}
+.warn{background:#2b2418;border:1px solid #6b5518;color:#e8d9a8}</style></head><body>
+<h1>🌊 Estudo de Correntes de Retorno — Salvamentos CBMERJ</h1>
+<p class="sub">Gerado em 2026-07-20T09:35:20. Teste da teoria: resgates ocorrem
+na corrente de retorno, favorecida por onda alta + período longo.</p>
+
+<div class="box"><b>Veredito sobre a "briga de forças" (efeito do período em
+mar grande):</b><br>INCONCLUSIVO: efeito fraco do período (parcial=+0.096, n=2378). Provável papel de maré/morfologia, ausentes dos dados.</div>
+
+<h2>Correlações (resgates absolutos, série inteira)</h2>
+<p class="sub">Spearman; <b>parcial</b> = já descontado público (temperatura,
+fim de semana) e estação do ano. Positivo = mais resgate. n=3846 dias.</p>
+<table><tr><th>Variável</th><th>Bruto</th><th>Parcial (controlado)</th></tr>
+<tr><td>Potência da onda (Hs²·T)</td><td>-0.178</td>
+<td><b>0.054</b></td></tr>
+<tr><td>Altura (Hs)</td><td>-0.18</td>
+<td><b>0.029</b></td></tr>
+<tr><td>Período (T)</td><td>-0.054</td>
+<td><b>0.114</b></td></tr></table>
+
+<h2>Maré (por local — Rio de Janeiro na visão global)</h2>
+<p class="sub">Efeito da maré ALÉM da onda (parcial,
+controlando público, estação e potência da onda). n=1310 dias.<br>
+Amplitude de maré: <b>-0.01</b> · Nível de maré baixa: <b>-0.079</b>
+(negativo = maré baixa → mais resgate).<br><b>Apoia a hipótese:</b> maré baixa gera mais resgates, além do efeito da onda (bancos/canais expostos).</p>
+
+<h2>Grade Altura × Período — o teste direto</h2>
+<p class="sub">Mediana da taxa de resgate em cada combinação. Se a teoria vale,
+o vermelho se concentra embaixo à direita (onda alta + período longo).
+Células com &lt;8 dias ficam em branco.</p>
+<table><tr><td class='hd'>Altura \ Período</td><th><6s</th><th>6-8s</th><th>8-10s</th><th>10-12s</th><th>>12s</th></tr>
+<tr><td class='hd'><0.8 m</td><td style='background:rgba(230,57,70,0.41)' title='n=14 dias'>105.5000</td><td style='background:rgba(230,57,70,0.44)' title='n=79 dias'>117.8608</td><td style='background:rgba(230,57,70,0.68)' title='n=41 dias'>213.0000</td><td>·</td><td>·</td></tr><tr><td class='hd'>0.8-1.0 m</td><td style='background:rgba(230,57,70,0.59)' title='n=23 dias'>175.7391</td><td style='background:rgba(230,57,70,0.46)' title='n=43 dias'>124.3953</td><td style='background:rgba(230,57,70,0.96)' title='n=20 dias'>327.9500</td><td>·</td><td>·</td></tr><tr><td class='hd'>1.0-1.3 m</td><td style='background:rgba(230,57,70,0.59)' title='n=10 dias'>177.0000</td><td style='background:rgba(230,57,70,0.60)' title='n=50 dias'>181.6400</td><td style='background:rgba(230,57,70,0.57)' title='n=11 dias'>170.0909</td><td>·</td><td>·</td></tr><tr><td class='hd'>1.3-1.6 m</td><td>·</td><td style='background:rgba(230,57,70,0.75)' title='n=35 dias'>242.4571</td><td style='background:rgba(230,57,70,1.00)' title='n=12 dias'>343.0000</td><td>·</td><td>·</td></tr><tr><td class='hd'>1.6-2.0 m</td><td>·</td><td>·</td><td>·</td><td>·</td><td>·</td></tr><tr><td class='hd'>>2.0 m</td><td>·</td><td>·</td><td>·</td><td>·</td><td>·</td></tr></table>
+
+<h2>Praias mais sensíveis à potência da onda</h2>
+<p class="sub">Candidatas a "praias de corrente de retorno": onde os resgates
+mais sobem com onda alta+longa. Fator = resgates em mar alto+longo ÷ mar calmo.</p>
+<table><tr><th>Praia</th><th>Dias</th><th>Resgates</th>
+<th>Corr. c/ potência</th><th>Alto+longo vs calmo</th>
+<th>Timing maré (baixa no pico)</th></tr><tr><td>PRAIA DE IPANEMA</td><td>1276</td><td>8671</td><td>0.192</td><td>1.13×</td><td>-0.073</td></tr><tr><td>PRAIA DO ARPOADOR</td><td>1276</td><td>2593</td><td>0.182</td><td>1.22×</td><td>-0.022</td></tr><tr><td>PRAIA GRANDE - ARRAIAL DO CABO</td><td>1277</td><td>858</td><td>0.15</td><td>0.33×</td><td>-0.028</td></tr><tr><td>PIRATININGA</td><td>1277</td><td>464</td><td>0.147</td><td>1.33×</td><td>-0.023</td></tr><tr><td>PRAINHA</td><td>1250</td><td>481</td><td>0.103</td><td>9.0×</td><td>-0.02</td></tr><tr><td>PRAIA DE COPACABANA</td><td>1277</td><td>7743</td><td>0.093</td><td>1.27×</td><td>-0.06</td></tr><tr><td>CAMBOINHAS</td><td>1277</td><td>453</td><td>0.079</td><td>1.67×</td><td>0.006</td></tr><tr><td>PRAIA DO LEME</td><td>1277</td><td>7201</td><td>0.069</td><td>0.81×</td><td><b style='color:#e63946'>-0.081</b></td></tr><tr><td>PRRAIA DO VIDIGAL</td><td>1275</td><td>342</td><td>0.057</td><td>0.67×</td><td>-0.042</td></tr><tr><td>PRAIA DO DIABO</td><td>1275</td><td>648</td><td>0.048</td><td>0.8×</td><td>-0.062</td></tr><tr><td>PRAIA DO PEPINO</td><td>1274</td><td>392</td><td>0.027</td><td>0.25×</td><td>-0.028</td></tr><tr><td>ITAIPU</td><td>1277</td><td>238</td><td>0.027</td><td>1.5×</td><td>-0.002</td></tr><tr><td>PRAIA DO MEIO</td><td>1173</td><td>1065</td><td>0.023</td><td>0.89×</td><td>-0.061</td></tr><tr><td>PRAIA DA URCA</td><td>1270</td><td>200</td><td>0.011</td><td>5.0×</td><td>0.01</td></tr><tr><td>PRAIA DA BARRA DE GUARATIBA</td><td>1222</td><td>230</td><td>0.01</td><td>1.5×</td><td>0.033</td></tr><tr><td>PRAIA DO LEBLON</td><td>1276</td><td>3333</td><td>0.009</td><td>0.28×</td><td><b style='color:#e63946'>-0.117</b></td></tr><tr><td>PRAIA BRAVA</td><td>1277</td><td>422</td><td>0.008</td><td>0.25×</td><td>-0.044</td></tr><tr><td>PRAIA CEPILHO</td><td>1166</td><td>288</td><td>-0.003</td><td>0.67×</td><td>-0.027</td></tr><tr><td>PRAIA DO PECADO</td><td>1280</td><td>263</td><td>-0.023</td><td>1.0×</td><td>-0.029</td></tr><tr><td>ITAIPUAÇU</td><td>1277</td><td>343</td><td>-0.028</td><td>0.67×</td><td>-0.004</td></tr><tr><td>PRAIA DE SÃO CONRADO</td><td>1276</td><td>1897</td><td>-0.04</td><td>0.05×</td><td>-0.058</td></tr><tr><td>PEDRA DO PONTAL</td><td>1257</td><td>797</td><td>-0.046</td><td>1.67×</td><td><b style='color:#e63946'>-0.095</b></td></tr><tr><td>PRAIA DO FORTE - CABO FRIO</td><td>1277</td><td>5428</td><td>-0.059</td><td>0.52×</td><td>-0.065</td></tr><tr><td>ITACOATIARA</td><td>1277</td><td>2075</td><td>-0.061</td><td>0.15×</td><td><b style='color:#e63946'>-0.108</b></td></tr><tr><td>PRAIA DOS CAVALEIROS</td><td>1280</td><td>935</td><td>-0.062</td><td>0.62×</td><td>-0.049</td></tr><tr><td>PRAIA DO FLAMENGO</td><td>1278</td><td>214</td><td>-0.064</td><td>1.0×</td><td>-0.064</td></tr><tr><td>PRAIA DO CACHADAÇO</td><td>1171</td><td>1052</td><td>-0.072</td><td>0.8×</td><td>-0.042</td></tr><tr><td>COSTA AZUL</td><td>1278</td><td>309</td><td>-0.074</td><td>0.33×</td><td>-0.034</td></tr><tr><td>PRAIA COSTA AZUL</td><td>1280</td><td>249</td><td>-0.085</td><td>0.33×</td><td>-0.036</td></tr><tr><td>SAQUAREMA</td><td>1274</td><td>786</td><td>-0.088</td><td>0.75×</td><td>-0.061</td></tr></table>
+<p class="sub">Coluna "Timing maré": correlação parcial (controlada) entre maré
+baixa no horário de banho e resgates. <b style="color:#e63946">Vermelho</b>
+= praia onde a maré baixa do meio-dia gera mais resgate → candidata a
+sinalização de horário.</p>
+
+<div class="box warn"><b>⚠ Limitações — não usar como verdade absoluta:</b>
+faltam MARÉ e MORFOLOGIA DE FUNDO (bancos/canais), que são os maiores motores
+de corrente de retorno. A onda é medida em um ponto ao largo, não em cada
+praia. "Resgate" mistura corrente de retorno, undertow e outros. Este estudo
+mostra TENDÊNCIAS estatísticas, não a física de cada praia — é insumo para o
+conhecimento do guarda-vida, não substituto dele.</div>
+</body></html>

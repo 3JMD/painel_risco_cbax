@@ -1,0 +1,137 @@
+{
+ "gerado_em": "2026-07-21T10:29:39",
+ "base": "empírico: praias com efeito de maré confirmado",
+ "cidades": [
+  {
+   "cidade": "Niterói",
+   "praias": [
+    "ITACOATIARA"
+   ],
+   "janelas": [
+    {
+     "data": "2026-07-21",
+     "dow": "Ter",
+     "hora_baixamar": 13,
+     "inicio": 11,
+     "fim": 14,
+     "nivel_min": -0.07
+    },
+    {
+     "data": "2026-07-22",
+     "dow": "Qua",
+     "hora_baixamar": 14,
+     "inicio": 12,
+     "fim": 15,
+     "nivel_min": 0.06
+    },
+    {
+     "data": "2026-07-23",
+     "dow": "Qui",
+     "hora_baixamar": 16,
+     "inicio": 14,
+     "fim": 17,
+     "nivel_min": 0.04
+    },
+    {
+     "data": "2026-07-24",
+     "dow": "Sex",
+     "hora_baixamar": 18,
+     "inicio": 16,
+     "fim": 18,
+     "nivel_min": -0.01
+    },
+    {
+     "data": "2026-07-25",
+     "dow": "Sáb",
+     "hora_baixamar": 18,
+     "inicio": 16,
+     "fim": 18,
+     "nivel_min": -0.17
+    },
+    {
+     "data": "2026-07-26",
+     "dow": "Dom",
+     "hora_baixamar": 8,
+     "inicio": 8,
+     "fim": 9,
+     "nivel_min": -0.4
+    },
+    {
+     "data": "2026-07-27",
+     "dow": "Seg",
+     "hora_baixamar": 8,
+     "inicio": 8,
+     "fim": 9,
+     "nivel_min": -0.56
+    }
+   ]
+  },
+  {
+   "cidade": "Rio de Janeiro",
+   "praias": [
+    "PRAIA DO LEBLON",
+    "PEDRA DO PONTAL",
+    "PRAIA DO RECREIO",
+    "PRAIA DO LEME"
+   ],
+   "janelas": [
+    {
+     "data": "2026-07-21",
+     "dow": "Ter",
+     "hora_baixamar": 13,
+     "inicio": 11,
+     "fim": 14,
+     "nivel_min": -0.06
+    },
+    {
+     "data": "2026-07-22",
+     "dow": "Qua",
+     "hora_baixamar": 14,
+     "inicio": 12,
+     "fim": 15,
+     "nivel_min": 0.07
+    },
+    {
+     "data": "2026-07-23",
+     "dow": "Qui",
+     "hora_baixamar": 16,
+     "inicio": 14,
+     "fim": 17,
+     "nivel_min": 0.05
+    },
+    {
+     "data": "2026-07-24",
+     "dow": "Sex",
+     "hora_baixamar": 18,
+     "inicio": 16,
+     "fim": 18,
+     "nivel_min": -0.01
+    },
+    {
+     "data": "2026-07-25",
+     "dow": "Sáb",
+     "hora_baixamar": 18,
+     "inicio": 16,
+     "fim": 18,
+     "nivel_min": -0.18
+    },
+    {
+     "data": "2026-07-26",
+     "dow": "Dom",
+     "hora_baixamar": 8,
+     "inicio": 8,
+     "fim": 9,
+     "nivel_min": -0.39
+    },
+    {
+     "data": "2026-07-27",
+     "dow": "Seg",
+     "hora_baixamar": 8,
+     "inicio": 8,
+     "fim": 9,
+     "nivel_min": -0.56
+    }
+   ]
+  }
+ ]
+}

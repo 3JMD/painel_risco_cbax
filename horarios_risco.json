@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-21T10:29:39",
+ "gerado_em": "2026-07-22T10:30:22",
  "base": "empírico: praias com efeito de maré confirmado",
  "cidades": [
   {
@@ -9,20 +9,12 @@
    ],
    "janelas": [
     {
-     "data": "2026-07-21",
-     "dow": "Ter",
-     "hora_baixamar": 13,
-     "inicio": 11,
-     "fim": 14,
-     "nivel_min": -0.07
-    },
-    {
      "data": "2026-07-22",
      "dow": "Qua",
      "hora_baixamar": 14,
      "inicio": 12,
      "fim": 15,
-     "nivel_min": 0.06
+     "nivel_min": 0.04
     },
     {
      "data": "2026-07-23",
@@ -38,15 +30,15 @@
      "hora_baixamar": 18,
      "inicio": 16,
      "fim": 18,
-     "nivel_min": -0.01
+     "nivel_min": 0.01
     },
     {
      "data": "2026-07-25",
      "dow": "Sáb",
-     "hora_baixamar": 18,
-     "inicio": 16,
-     "fim": 18,
-     "nivel_min": -0.17
+     "hora_baixamar": 8,
+     "inicio": 8,
+     "fim": 9,
+     "nivel_min": -0.13
     },
     {
      "data": "2026-07-26",
@@ -54,7 +46,7 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.4
+     "nivel_min": -0.28
     },
     {
      "data": "2026-07-27",
@@ -62,7 +54,15 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.56
+     "nivel_min": -0.41
+    },
+    {
+     "data": "2026-07-28",
+     "dow": "Ter",
+     "hora_baixamar": 8,
+     "inicio": 8,
+     "fim": 9,
+     "nivel_min": -0.62
     }
    ]
   },
@@ -76,20 +76,12 @@
    ],
    "janelas": [
     {
-     "data": "2026-07-21",
-     "dow": "Ter",
-     "hora_baixamar": 13,
-     "inicio": 11,
-     "fim": 14,
-     "nivel_min": -0.06
-    },
-    {
      "data": "2026-07-22",
      "dow": "Qua",
-     "hora_baixamar": 14,
-     "inicio": 12,
-     "fim": 15,
-     "nivel_min": 0.07
+     "hora_baixamar": 15,
+     "inicio": 13,
+     "fim": 16,
+     "nivel_min": 0.03
     },
     {
      "data": "2026-07-23",
@@ -97,7 +89,7 @@
      "hora_baixamar": 16,
      "inicio": 14,
      "fim": 17,
-     "nivel_min": 0.05
+     "nivel_min": 0.04
     },
     {
      "data": "2026-07-24",
@@ -105,15 +97,15 @@
      "hora_baixamar": 18,
      "inicio": 16,
      "fim": 18,
-     "nivel_min": -0.01
+     "nivel_min": 0.0
     },
     {
      "data": "2026-07-25",
      "dow": "Sáb",
-     "hora_baixamar": 18,
-     "inicio": 16,
-     "fim": 18,
-     "nivel_min": -0.18
+     "hora_baixamar": 8,
+     "inicio": 8,
+     "fim": 9,
+     "nivel_min": -0.14
     },
     {
      "data": "2026-07-26",
@@ -121,7 +113,7 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.39
+     "nivel_min": -0.27
     },
     {
      "data": "2026-07-27",
@@ -129,7 +121,15 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.56
+     "nivel_min": -0.4
+    },
+    {
+     "data": "2026-07-28",
+     "dow": "Ter",
+     "hora_baixamar": 8,
+     "inicio": 8,
+     "fim": 9,
+     "nivel_min": -0.63
     }
    ]
   }

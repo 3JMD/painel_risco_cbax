@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-24T10:17:03",
+ "gerado_em": "2026-07-25T09:38:49",
  "base": "empírico: praias com efeito de maré confirmado",
  "cidades": [
   {
@@ -9,20 +9,12 @@
    ],
    "janelas": [
     {
-     "data": "2026-07-24",
-     "dow": "Sex",
-     "hora_baixamar": 18,
-     "inicio": 16,
-     "fim": 18,
-     "nivel_min": 0.0
-    },
-    {
      "data": "2026-07-25",
      "dow": "Sáb",
      "hora_baixamar": 18,
      "inicio": 16,
      "fim": 18,
-     "nivel_min": -0.09
+     "nivel_min": -0.12
     },
     {
      "data": "2026-07-26",
@@ -30,7 +22,7 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.33
+     "nivel_min": -0.35
     },
     {
      "data": "2026-07-27",
@@ -38,7 +30,7 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.5
+     "nivel_min": -0.51
     },
     {
      "data": "2026-07-28",
@@ -46,7 +38,7 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.62
+     "nivel_min": -0.6
     },
     {
      "data": "2026-07-29",
@@ -54,7 +46,7 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.6
+     "nivel_min": -0.58
     },
     {
      "data": "2026-07-30",
@@ -62,7 +54,15 @@
      "hora_baixamar": 9,
      "inicio": 8,
      "fim": 10,
-     "nivel_min": -0.62
+     "nivel_min": -0.65
+    },
+    {
+     "data": "2026-07-31",
+     "dow": "Sex",
+     "hora_baixamar": 9,
+     "inicio": 8,
+     "fim": 10,
+     "nivel_min": -0.57
     }
    ]
   },
@@ -76,20 +76,12 @@
    ],
    "janelas": [
     {
-     "data": "2026-07-24",
-     "dow": "Sex",
-     "hora_baixamar": 18,
-     "inicio": 16,
-     "fim": 18,
-     "nivel_min": 0.01
-    },
-    {
      "data": "2026-07-25",
      "dow": "Sáb",
      "hora_baixamar": 18,
      "inicio": 16,
      "fim": 18,
-     "nivel_min": -0.1
+     "nivel_min": -0.13
     },
     {
      "data": "2026-07-26",
@@ -97,7 +89,7 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.33
+     "nivel_min": -0.35
     },
     {
      "data": "2026-07-27",
@@ -105,7 +97,7 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.5
+     "nivel_min": -0.52
     },
     {
      "data": "2026-07-28",
@@ -113,7 +105,7 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.62
+     "nivel_min": -0.6
     },
     {
      "data": "2026-07-29",
@@ -121,7 +113,7 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.6
+     "nivel_min": -0.58
     },
     {
      "data": "2026-07-30",
@@ -129,7 +121,15 @@
      "hora_baixamar": 9,
      "inicio": 8,
      "fim": 10,
-     "nivel_min": -0.61
+     "nivel_min": -0.63
+    },
+    {
+     "data": "2026-07-31",
+     "dow": "Sex",
+     "hora_baixamar": 9,
+     "inicio": 8,
+     "fim": 10,
+     "nivel_min": -0.55
     }
    ]
   }

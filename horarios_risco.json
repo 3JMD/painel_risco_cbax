@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-26T09:59:40",
+ "gerado_em": "2026-07-27T11:10:44",
  "base": "empírico: praias com efeito de maré confirmado",
  "cidades": [
   {
@@ -9,14 +9,6 @@
    ],
    "janelas": [
     {
-     "data": "2026-07-26",
-     "dow": "Dom",
-     "hora_baixamar": 8,
-     "inicio": 8,
-     "fim": 9,
-     "nivel_min": -0.35
-    },
-    {
      "data": "2026-07-27",
      "dow": "Seg",
      "hora_baixamar": 8,
@@ -30,7 +22,7 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.61
+     "nivel_min": -0.6
     },
     {
      "data": "2026-07-29",
@@ -38,7 +30,7 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.6
+     "nivel_min": -0.59
     },
     {
      "data": "2026-07-30",
@@ -46,74 +38,7 @@
      "hora_baixamar": 9,
      "inicio": 8,
      "fim": 10,
-     "nivel_min": -0.59
-    },
-    {
-     "data": "2026-07-31",
-     "dow": "Sex",
-     "hora_baixamar": 9,
-     "inicio": 8,
-     "fim": 10,
-     "nivel_min": -0.59
-    },
-    {
-     "data": "2026-08-01",
-     "dow": "Sáb",
-     "hora_baixamar": 10,
-     "inicio": 8,
-     "fim": 11,
-     "nivel_min": -0.59
-    }
-   ]
-  },
-  {
-   "cidade": "Rio de Janeiro",
-   "praias": [
-    "PRAIA DO LEBLON",
-    "PEDRA DO PONTAL",
-    "PRAIA DO RECREIO",
-    "PRAIA DO LEME"
-   ],
-   "janelas": [
-    {
-     "data": "2026-07-26",
-     "dow": "Dom",
-     "hora_baixamar": 8,
-     "inicio": 8,
-     "fim": 9,
-     "nivel_min": -0.35
-    },
-    {
-     "data": "2026-07-27",
-     "dow": "Seg",
-     "hora_baixamar": 8,
-     "inicio": 8,
-     "fim": 9,
-     "nivel_min": -0.52
-    },
-    {
-     "data": "2026-07-28",
-     "dow": "Ter",
-     "hora_baixamar": 8,
-     "inicio": 8,
-     "fim": 9,
-     "nivel_min": -0.61
-    },
-    {
-     "data": "2026-07-29",
-     "dow": "Qua",
-     "hora_baixamar": 8,
-     "inicio": 8,
-     "fim": 9,
-     "nivel_min": -0.6
-    },
-    {
-     "data": "2026-07-30",
-     "dow": "Qui",
-     "hora_baixamar": 9,
-     "inicio": 8,
-     "fim": 10,
-     "nivel_min": -0.59
+     "nivel_min": -0.62
     },
     {
      "data": "2026-07-31",
@@ -129,7 +54,82 @@
      "hora_baixamar": 10,
      "inicio": 8,
      "fim": 11,
-     "nivel_min": -0.6
+     "nivel_min": -0.67
+    },
+    {
+     "data": "2026-08-02",
+     "dow": "Dom",
+     "hora_baixamar": 11,
+     "inicio": 9,
+     "fim": 12,
+     "nivel_min": -0.68
+    }
+   ]
+  },
+  {
+   "cidade": "Rio de Janeiro",
+   "praias": [
+    "PRAIA DO LEBLON",
+    "PEDRA DO PONTAL",
+    "PRAIA DO RECREIO",
+    "PRAIA DO LEME"
+   ],
+   "janelas": [
+    {
+     "data": "2026-07-27",
+     "dow": "Seg",
+     "hora_baixamar": 8,
+     "inicio": 8,
+     "fim": 9,
+     "nivel_min": -0.52
+    },
+    {
+     "data": "2026-07-28",
+     "dow": "Ter",
+     "hora_baixamar": 8,
+     "inicio": 8,
+     "fim": 9,
+     "nivel_min": -0.59
+    },
+    {
+     "data": "2026-07-29",
+     "dow": "Qua",
+     "hora_baixamar": 8,
+     "inicio": 8,
+     "fim": 9,
+     "nivel_min": -0.59
+    },
+    {
+     "data": "2026-07-30",
+     "dow": "Qui",
+     "hora_baixamar": 9,
+     "inicio": 8,
+     "fim": 10,
+     "nivel_min": -0.61
+    },
+    {
+     "data": "2026-07-31",
+     "dow": "Sex",
+     "hora_baixamar": 9,
+     "inicio": 8,
+     "fim": 10,
+     "nivel_min": -0.58
+    },
+    {
+     "data": "2026-08-01",
+     "dow": "Sáb",
+     "hora_baixamar": 10,
+     "inicio": 8,
+     "fim": 11,
+     "nivel_min": -0.68
+    },
+    {
+     "data": "2026-08-02",
+     "dow": "Dom",
+     "hora_baixamar": 11,
+     "inicio": 9,
+     "fim": 12,
+     "nivel_min": -0.68
     }
    ]
   }

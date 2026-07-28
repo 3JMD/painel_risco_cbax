@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-28T10:34:33",
+ "gerado_em": "2026-07-28T16:28:57",
  "base": "empírico: praias com efeito de maré confirmado",
  "cidades": [
   {
@@ -38,7 +38,7 @@
      "hora_baixamar": 9,
      "inicio": 8,
      "fim": 10,
-     "nivel_min": -0.57
+     "nivel_min": -0.59
     },
     {
      "data": "2026-08-01",
@@ -51,10 +51,10 @@
     {
      "data": "2026-08-02",
      "dow": "Dom",
-     "hora_baixamar": 10,
-     "inicio": 8,
-     "fim": 11,
-     "nivel_min": -0.68
+     "hora_baixamar": 11,
+     "inicio": 9,
+     "fim": 12,
+     "nivel_min": -0.7
     },
     {
      "data": "2026-08-03",
@@ -62,7 +62,7 @@
      "hora_baixamar": 11,
      "inicio": 9,
      "fim": 12,
-     "nivel_min": -0.52
+     "nivel_min": -0.54
     }
    ]
   },
@@ -97,7 +97,7 @@
      "hora_baixamar": 9,
      "inicio": 8,
      "fim": 10,
-     "nivel_min": -0.59
+     "nivel_min": -0.6
     },
     {
      "data": "2026-07-31",
@@ -105,7 +105,7 @@
      "hora_baixamar": 9,
      "inicio": 8,
      "fim": 10,
-     "nivel_min": -0.56
+     "nivel_min": -0.58
     },
     {
      "data": "2026-08-01",
@@ -113,7 +113,7 @@
      "hora_baixamar": 10,
      "inicio": 8,
      "fim": 11,
-     "nivel_min": -0.66
+     "nivel_min": -0.67
     },
     {
      "data": "2026-08-02",
@@ -121,7 +121,7 @@
      "hora_baixamar": 11,
      "inicio": 9,
      "fim": 12,
-     "nivel_min": -0.69
+     "nivel_min": -0.71
     },
     {
      "data": "2026-08-03",
@@ -129,7 +129,7 @@
      "hora_baixamar": 11,
      "inicio": 9,
      "fim": 12,
-     "nivel_min": -0.51
+     "nivel_min": -0.53
     }
    ]
   }

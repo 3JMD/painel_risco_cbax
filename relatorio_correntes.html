@@ -8,29 +8,37 @@ td,th{padding:6px 9px;border:1px solid #223;text-align:center}
 td.hd,th{color:#9db0c0;font-weight:600}
 .box{background:#18232f;border:1px solid #2a3947;border-radius:10px;
 padding:14px 16px;margin:14px 0}
-.warn{background:#2b2418;border:1px solid #6b5518;color:#e8d9a8}</style></head><body>
+.warn{background:#2b2418;border:1px solid #6b5518;color:#e8d9a8}
+
+.nav{display:flex;flex-wrap:wrap;gap:6px 10px;margin-bottom:14px}
+.nav a{font-size:.78rem;color:#9db0c0;text-decoration:none;padding:4px 9px;
+border:1px solid #2a3947;border-radius:6px}
+.nav a.on{color:#e8eef4;border-color:#4cc9f0;background:#18232f}
+
+</style></head><body>
+<nav class="nav"><a href="painel_risco.html">🚨 Painel de Risco</a><a href="horarios_risco.html">🕐 Horários de Maré</a><a href="relatorio_correntes.html" class="on">🌊 Correntes de Retorno</a><a href="relatorio_analises.html">📊 Análises Avançadas</a><a href="relatorio_praias.html">🏖 Análise por Praia</a></nav>
 <h1>🌊 Estudo de Correntes de Retorno — Salvamentos CBMERJ</h1>
-<p class="sub">Gerado em 2026-07-20T09:35:20. Teste da teoria: resgates ocorrem
+<p class="sub">Gerado em 2026-07-28T16:28:57. Teste da teoria: resgates ocorrem
 na corrente de retorno, favorecida por onda alta + período longo.</p>
 
 <div class="box"><b>Veredito sobre a "briga de forças" (efeito do período em
-mar grande):</b><br>INCONCLUSIVO: efeito fraco do período (parcial=+0.096, n=2378). Provável papel de maré/morfologia, ausentes dos dados.</div>
+mar grande):</b><br>INCONCLUSIVO: efeito fraco do período (parcial=+0.097, n=2382). Provável papel de maré/morfologia, ausentes dos dados.</div>
 
 <h2>Correlações (resgates absolutos, série inteira)</h2>
 <p class="sub">Spearman; <b>parcial</b> = já descontado público (temperatura,
-fim de semana) e estação do ano. Positivo = mais resgate. n=3846 dias.</p>
+fim de semana) e estação do ano. Positivo = mais resgate. n=3852 dias.</p>
 <table><tr><th>Variável</th><th>Bruto</th><th>Parcial (controlado)</th></tr>
-<tr><td>Potência da onda (Hs²·T)</td><td>-0.178</td>
+<tr><td>Potência da onda (Hs²·T)</td><td>-0.177</td>
 <td><b>0.054</b></td></tr>
-<tr><td>Altura (Hs)</td><td>-0.18</td>
+<tr><td>Altura (Hs)</td><td>-0.179</td>
 <td><b>0.029</b></td></tr>
-<tr><td>Período (T)</td><td>-0.054</td>
-<td><b>0.114</b></td></tr></table>
+<tr><td>Período (T)</td><td>-0.053</td>
+<td><b>0.115</b></td></tr></table>
 
 <h2>Maré (por local — Rio de Janeiro na visão global)</h2>
 <p class="sub">Efeito da maré ALÉM da onda (parcial,
-controlando público, estação e potência da onda). n=1310 dias.<br>
-Amplitude de maré: <b>-0.01</b> · Nível de maré baixa: <b>-0.079</b>
+controlando público, estação e potência da onda). n=1316 dias.<br>
+Amplitude de maré: <b>-0.014</b> · Nível de maré baixa: <b>-0.075</b>
 (negativo = maré baixa → mais resgate).<br><b>Apoia a hipótese:</b> maré baixa gera mais resgates, além do efeito da onda (bancos/canais expostos).</p>
 
 <h2>Grade Altura × Período — o teste direto</h2>

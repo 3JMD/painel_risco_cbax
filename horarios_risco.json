@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-07-28T17:18:19",
- "base": "empírico: praias com efeito de maré confirmado",
+ "gerado_em": "2026-07-28T18:09:21",
+ "base": "praias com efeito de maré comprovado (q<0.05, |rho|>=0.10)",
  "cidades": [
   {
    "cidade": "Niterói",
@@ -69,10 +69,7 @@
   {
    "cidade": "Rio de Janeiro",
    "praias": [
-    "PRAIA DO LEBLON",
-    "PEDRA DO PONTAL",
-    "PRAIA DO RECREIO",
-    "PRAIA DO LEME"
+    "PRAIA DO LEBLON"
    ],
    "janelas": [
     {

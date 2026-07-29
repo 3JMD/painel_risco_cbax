@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-29T10:38:56",
+ "gerado_em": "2026-07-29T09:58:55",
  "base": "praias com efeito de maré comprovado (q<0.05, |rho|>=0.10)",
  "cidades": [
   {
@@ -14,7 +14,7 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.59
+     "nivel_min": -0.58
     },
     {
      "data": "2026-07-30",
@@ -22,15 +22,15 @@
      "hora_baixamar": 9,
      "inicio": 8,
      "fim": 10,
-     "nivel_min": -0.61
+     "nivel_min": -0.63
     },
     {
      "data": "2026-07-31",
      "dow": "Sex",
-     "hora_baixamar": 9,
+     "hora_baixamar": 10,
      "inicio": 8,
-     "fim": 10,
-     "nivel_min": -0.59
+     "fim": 11,
+     "nivel_min": -0.66
     },
     {
      "data": "2026-08-01",
@@ -38,7 +38,7 @@
      "hora_baixamar": 10,
      "inicio": 8,
      "fim": 11,
-     "nivel_min": -0.66
+     "nivel_min": -0.74
     },
     {
      "data": "2026-08-02",
@@ -46,7 +46,7 @@
      "hora_baixamar": 11,
      "inicio": 9,
      "fim": 12,
-     "nivel_min": -0.7
+     "nivel_min": -0.73
     },
     {
      "data": "2026-08-03",
@@ -54,7 +54,7 @@
      "hora_baixamar": 11,
      "inicio": 9,
      "fim": 12,
-     "nivel_min": -0.54
+     "nivel_min": -0.55
     },
     {
      "data": "2026-08-04",
@@ -62,7 +62,7 @@
      "hora_baixamar": 12,
      "inicio": 10,
      "fim": 13,
-     "nivel_min": -0.27
+     "nivel_min": -0.29
     }
    ]
   },
@@ -78,7 +78,7 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.59
+     "nivel_min": -0.58
     },
     {
      "data": "2026-07-30",
@@ -86,15 +86,15 @@
      "hora_baixamar": 9,
      "inicio": 8,
      "fim": 10,
-     "nivel_min": -0.6
+     "nivel_min": -0.62
     },
     {
      "data": "2026-07-31",
      "dow": "Sex",
-     "hora_baixamar": 9,
+     "hora_baixamar": 10,
      "inicio": 8,
-     "fim": 10,
-     "nivel_min": -0.58
+     "fim": 11,
+     "nivel_min": -0.66
     },
     {
      "data": "2026-08-01",
@@ -102,7 +102,7 @@
      "hora_baixamar": 10,
      "inicio": 8,
      "fim": 11,
-     "nivel_min": -0.67
+     "nivel_min": -0.74
     },
     {
      "data": "2026-08-02",
@@ -110,7 +110,7 @@
      "hora_baixamar": 11,
      "inicio": 9,
      "fim": 12,
-     "nivel_min": -0.71
+     "nivel_min": -0.73
     },
     {
      "data": "2026-08-03",
@@ -126,7 +126,7 @@
      "hora_baixamar": 12,
      "inicio": 10,
      "fim": 13,
-     "nivel_min": -0.26
+     "nivel_min": -0.27
     }
    ]
   }

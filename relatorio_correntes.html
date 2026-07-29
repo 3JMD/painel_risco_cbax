@@ -22,20 +22,44 @@ border:1px solid #2a3947;border-radius:6px}
 </style></head><body>
 <nav class="nav"><a href="painel_risco.html">🚨 Painel de Risco</a><a href="horarios_risco.html">🕐 Horários de Maré</a><a href="relatorio_correntes.html" class="on">🌊 Correntes de Retorno</a><a href="relatorio_analises.html">📊 Análises Avançadas</a><a href="relatorio_praias.html">🏖 Análise por Praia</a></nav>
 <h1>🌊 Estudo de Correntes de Retorno — Salvamentos CBMERJ</h1>
-<p class="sub">Gerado em 2026-07-28T18:09:20. Teste da teoria: resgates ocorrem
-na corrente de retorno, favorecida por onda alta + período longo.</p>
+<p class="sub">Gerado em 2026-07-29T09:07:52. Teste da teoria operacional: resgates
+ocorrem na corrente de retorno, favorecida por onda alta + período longo.
+<b>Resultado até aqui:</b> a parte do <i>período</i> se sustenta; a da
+<i>altura</i> não — a altura da onda, isolada do público e da estação, não
+mostrou efeito nestes dados.</p>
 
-<div class="box"><b>Veredito sobre a "briga de forças" (efeito do período em
-mar grande):</b><br><div class="box insuf"><b>Evidência insuficiente — nada a
-concluir por enquanto.</b><br><span class="sub">o efeito do período em mar grande significativo mas pequeno demais para orientar decisão (rho=+0.099, mínimo |0.10|, n=2392).
-Sem maré e sem morfologia de fundo nos dados, não dá para separar a corrente de retorno do resto — e um efeito desse tamanho não sustenta decisão de efetivo.</span></div></div>
+<div class="box"><b>Veredito sobre a "briga de forças" — a água que entra
+atrapalha o retorno?</b><br><span class="sub">Hipótese: com frequência maior de
+entrada de onda, a água que chega impede o retorno e a corrente fica mais
+fraca; com frequência menor, o retorno é facilitado e a corrente
+fortalece.</span><br><br>Os dados <b>APOIAM</b> a hipótese, medida na forma
+correta. Com a ALTURA controlada, a declividade da onda (s = Hs/L₀ = 2πHs/gT²,
+que é a frequência de entrada relativa ao tamanho da onda) tem
+<b>rho = -0.111</b> (p=0.0000, n=3862): onda mais curta e íngreme (frequência de entrada alta) gera MENOS resgate — ou seja, quanto mais longo o intervalo entre ondas, mais resgate.
+<br><br><span class="sub">O período <i>cru</i> em mar grande fica em
++0.099 — logo abaixo do piso de efeito, por isso não passa
+sozinho. A hipótese só aparece quando a frequência é medida em relação à
+altura: é a normalização que revela o efeito, não um teste mais permissivo.
+</span><div class="box insuf" style="margin-top:12px">
+<b>A maré influencia esse fenômeno? Ainda não é possível afirmar.</b><br>
+<span class="sub">Separando os dias pelo horário da baixa-mar, o efeito da
+frequência aparece assim: com baixa-mar <b>no</b> pico de banho
+rho=-0.086 (p=0.0815, n=440); <b>fora</b> do pico
+rho=-0.173 (p=0.0, n=886).
+A diferença entre os dois <b>não</b> é estatisticamente estabelecida — o
+intervalo de confiança de 95% da diferença inclui o zero. Além disso os dois
+grupos não são comparáveis só pelo horário: o momento da baixa-mar segue o
+ciclo lunar, então eles diferem também em amplitude de maré (sizígia vs
+quadratura). Para responder isso direito faltam duas coisas: <b>hora do
+resgate</b> (o registro do SISGEO é diário, então a variação dentro do dia não
+é observável) e morfologia de fundo por praia.</span></div></div>
 
 <h2>Correlações (resgates absolutos, série inteira)</h2>
 <p class="sub">Spearman; <b>parcial</b> = já descontado público (temperatura,
 fim de semana) e estação do ano. Positivo = mais resgate. n=3862 dias.</p>
 <table><tr><th>Variável</th><th>Bruto</th><th>Parcial (controlado)</th>
 <th>p</th><th>Passa na régua?</th></tr>
-<tr><td>Potência da onda (Hs²·T)</td><td>-0.179</td><td><b>0.054</b></td><td>0.001</td><td>não — efeito pequeno demais</td></tr><tr><td>Altura (Hs)</td><td>-0.181</td><td><b>0.029</b></td><td>0.084</td><td>não — efeito pequeno demais</td></tr><tr><td>Período (T)</td><td>-0.055</td><td><b>0.115</b></td><td>0.0</td><td>sim</td></tr>
+<tr><td>Potência da onda (Hs²·T)</td><td>-0.179</td><td><b>0.054</b></td><td>0.001</td><td>não — efeito pequeno demais</td></tr><tr><td>Altura (Hs)</td><td>-0.181</td><td><b>0.029</b></td><td>0.0845</td><td>não — efeito pequeno demais</td></tr><tr><td>Período (T)</td><td>-0.055</td><td><b>0.116</b></td><td>0.0</td><td>sim</td></tr>
 </table>
 <p class="sub">Com n≈3862 dias, um rho de 0,03 fica "significativo" e
 ainda assim explica ~0,1% da variação. Por isso a régua exige também
@@ -45,7 +69,7 @@ ainda assim explica ~0,1% da variação. Por isso a régua exige também
 <p class="sub">Efeito da maré ALÉM da onda (Spearman
 parcial, controlando público, estação e potência da onda; p por permutação).
 Negativo = maré mais baixa → mais resgate. n=1326 dias.</p>
-<table><tr><th>Efeito comprovado</th><th>rho parcial</th><th>p</th><th>n</th></tr><tr><td>Maré baixa no pico de banho (11-16h)</td><td><b>-0.159</b></td><td>0.0000</td><td>1326</td></tr></table><p class='sub'>Não publicado por não passar na régua: Amplitude de maré (efeito pequeno e não significativo (rho=-0.014, p=0.631, n=1326)); Nível da maré baixa do dia (significativo mas pequeno demais para orientar decisão (rho=-0.075, mínimo |0.10|, n=1326)).</p>
+<table><tr><th>Efeito comprovado</th><th>rho parcial</th><th>p</th><th>n</th></tr><tr><td>Maré baixa no pico de banho (11-16h)</td><td><b>-0.159</b></td><td>0.0000</td><td>1326</td></tr></table><p class='sub'>Não publicado por não passar na régua: Amplitude de maré (efeito pequeno e não significativo (rho=-0.013, p=0.647, n=1326)); Nível da maré baixa do dia (significativo mas pequeno demais para orientar decisão (rho=-0.076, mínimo |0.10|, n=1326)).</p>
 
 <h2>Grade Altura × Período — exploratório</h2>
 <p class="sub">Média de resgates/dia em cada combinação, só em dias de praia

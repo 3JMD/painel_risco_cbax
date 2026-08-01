@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-07-31T06:49:43",
+ "gerado_em": "2026-08-01T06:38:38",
  "base": "praias com efeito de maré comprovado (q<0.05, |rho|>=0.10)",
  "cidades": [
   {
@@ -8,14 +8,6 @@
     "ITACOATIARA"
    ],
    "janelas": [
-    {
-     "data": "2026-07-31",
-     "dow": "Sex",
-     "hora_baixamar": 9,
-     "inicio": 8,
-     "fim": 10,
-     "nivel_min": -0.65
-    },
     {
      "data": "2026-08-01",
      "dow": "Sáb",
@@ -30,7 +22,7 @@
      "hora_baixamar": 11,
      "inicio": 9,
      "fim": 12,
-     "nivel_min": -0.72
+     "nivel_min": -0.74
     },
     {
      "data": "2026-08-03",
@@ -46,7 +38,7 @@
      "hora_baixamar": 12,
      "inicio": 10,
      "fim": 13,
-     "nivel_min": -0.29
+     "nivel_min": -0.31
     },
     {
      "data": "2026-08-05",
@@ -62,7 +54,15 @@
      "hora_baixamar": 15,
      "inicio": 13,
      "fim": 16,
-     "nivel_min": -0.03
+     "nivel_min": -0.02
+    },
+    {
+     "data": "2026-08-07",
+     "dow": "Sex",
+     "hora_baixamar": 17,
+     "inicio": 15,
+     "fim": 18,
+     "nivel_min": -0.07
     }
    ]
   },
@@ -73,20 +73,12 @@
    ],
    "janelas": [
     {
-     "data": "2026-07-31",
-     "dow": "Sex",
-     "hora_baixamar": 9,
-     "inicio": 8,
-     "fim": 10,
-     "nivel_min": -0.65
-    },
-    {
      "data": "2026-08-01",
      "dow": "Sáb",
      "hora_baixamar": 10,
      "inicio": 8,
      "fim": 11,
-     "nivel_min": -0.74
+     "nivel_min": -0.75
     },
     {
      "data": "2026-08-02",
@@ -94,7 +86,7 @@
      "hora_baixamar": 11,
      "inicio": 9,
      "fim": 12,
-     "nivel_min": -0.73
+     "nivel_min": -0.75
     },
     {
      "data": "2026-08-03",
@@ -102,7 +94,7 @@
      "hora_baixamar": 11,
      "inicio": 9,
      "fim": 12,
-     "nivel_min": -0.55
+     "nivel_min": -0.56
     },
     {
      "data": "2026-08-04",
@@ -110,7 +102,7 @@
      "hora_baixamar": 12,
      "inicio": 10,
      "fim": 13,
-     "nivel_min": -0.28
+     "nivel_min": -0.3
     },
     {
      "data": "2026-08-05",
@@ -126,7 +118,15 @@
      "hora_baixamar": 15,
      "inicio": 13,
      "fim": 16,
-     "nivel_min": -0.03
+     "nivel_min": -0.02
+    },
+    {
+     "data": "2026-08-07",
+     "dow": "Sex",
+     "hora_baixamar": 17,
+     "inicio": 15,
+     "fim": 18,
+     "nivel_min": -0.07
     }
    ]
   }

@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-05T10:18:08",
+ "gerado_em": "2026-08-06T06:36:49",
  "base": "praias com efeito de maré comprovado (q<0.05, |rho|>=0.10)",
  "cidades": [
   {
@@ -8,14 +8,6 @@
     "ITACOATIARA"
    ],
    "janelas": [
-    {
-     "data": "2026-08-05",
-     "dow": "Qua",
-     "hora_baixamar": 13,
-     "inicio": 11,
-     "fim": 14,
-     "nivel_min": -0.22
-    },
     {
      "data": "2026-08-06",
      "dow": "Qui",
@@ -63,6 +55,14 @@
      "inicio": 8,
      "fim": 9,
      "nivel_min": -0.55
+    },
+    {
+     "data": "2026-08-12",
+     "dow": "Qua",
+     "hora_baixamar": 8,
+     "inicio": 8,
+     "fim": 9,
+     "nivel_min": -0.56
     }
    ]
   },
@@ -72,14 +72,6 @@
     "PRAIA DO LEBLON"
    ],
    "janelas": [
-    {
-     "data": "2026-08-05",
-     "dow": "Qua",
-     "hora_baixamar": 13,
-     "inicio": 11,
-     "fim": 14,
-     "nivel_min": -0.21
-    },
     {
      "data": "2026-08-06",
      "dow": "Qui",
@@ -127,6 +119,14 @@
      "inicio": 8,
      "fim": 9,
      "nivel_min": -0.54
+    },
+    {
+     "data": "2026-08-12",
+     "dow": "Qua",
+     "hora_baixamar": 8,
+     "inicio": 8,
+     "fim": 9,
+     "nivel_min": -0.55
     }
    ]
   }

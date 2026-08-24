@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-23T04:54:36",
+ "gerado_em": "2026-08-24T04:52:34",
  "base": "praias com efeito de maré comprovado (q<0.05, |rho|>=0.10)",
  "cidades": [
   {
@@ -8,14 +8,6 @@
     "ITACOATIARA"
    ],
    "janelas": [
-    {
-     "data": "2026-08-23",
-     "dow": "Dom",
-     "hora_baixamar": 8,
-     "inicio": 8,
-     "fim": 9,
-     "nivel_min": 0.07
-    },
     {
      "data": "2026-08-24",
      "dow": "Seg",
@@ -30,7 +22,7 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.22
+     "nivel_min": -0.24
     },
     {
      "data": "2026-08-26",
@@ -38,7 +30,7 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.4
+     "nivel_min": -0.41
     },
     {
      "data": "2026-08-27",
@@ -46,7 +38,7 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.61
+     "nivel_min": -0.59
     },
     {
      "data": "2026-08-28",
@@ -54,7 +46,7 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.6
+     "nivel_min": -0.62
     },
     {
      "data": "2026-08-29",
@@ -62,7 +54,15 @@
      "hora_baixamar": 9,
      "inicio": 8,
      "fim": 10,
-     "nivel_min": -0.56
+     "nivel_min": -0.65
+    },
+    {
+     "data": "2026-08-30",
+     "dow": "Dom",
+     "hora_baixamar": 10,
+     "inicio": 8,
+     "fim": 11,
+     "nivel_min": -0.44
     }
    ]
   },
@@ -72,14 +72,6 @@
     "PRAIA DO LEBLON"
    ],
    "janelas": [
-    {
-     "data": "2026-08-23",
-     "dow": "Dom",
-     "hora_baixamar": 8,
-     "inicio": 8,
-     "fim": 9,
-     "nivel_min": 0.1
-    },
     {
      "data": "2026-08-24",
      "dow": "Seg",
@@ -94,7 +86,7 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.21
+     "nivel_min": -0.23
     },
     {
      "data": "2026-08-26",
@@ -102,7 +94,7 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.4
+     "nivel_min": -0.41
     },
     {
      "data": "2026-08-27",
@@ -110,7 +102,7 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.62
+     "nivel_min": -0.6
     },
     {
      "data": "2026-08-28",
@@ -118,7 +110,7 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.61
+     "nivel_min": -0.63
     },
     {
      "data": "2026-08-29",
@@ -126,7 +118,15 @@
      "hora_baixamar": 9,
      "inicio": 8,
      "fim": 10,
-     "nivel_min": -0.55
+     "nivel_min": -0.65
+    },
+    {
+     "data": "2026-08-30",
+     "dow": "Dom",
+     "hora_baixamar": 9,
+     "inicio": 8,
+     "fim": 10,
+     "nivel_min": -0.42
     }
    ]
   }

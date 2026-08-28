@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-08-27T15:17:52",
+ "gerado_em": "2026-08-28T16:06:39",
  "base": "praias com efeito de maré comprovado (q<0.05, |rho|>=0.10)",
  "cidades": [
   {
@@ -9,19 +9,11 @@
    ],
    "janelas": [
     {
-     "data": "2026-08-27",
-     "dow": "Qui",
-     "hora_baixamar": 8,
-     "inicio": 8,
-     "fim": 9,
-     "nivel_min": -0.6
-    },
-    {
      "data": "2026-08-28",
      "dow": "Sex",
-     "hora_baixamar": 8,
+     "hora_baixamar": 9,
      "inicio": 8,
-     "fim": 9,
+     "fim": 10,
      "nivel_min": -0.72
     },
     {
@@ -35,9 +27,9 @@
     {
      "data": "2026-08-30",
      "dow": "Dom",
-     "hora_baixamar": 9,
+     "hora_baixamar": 10,
      "inicio": 8,
-     "fim": 10,
+     "fim": 11,
      "nivel_min": -0.48
     },
     {
@@ -46,7 +38,7 @@
      "hora_baixamar": 10,
      "inicio": 8,
      "fim": 11,
-     "nivel_min": -0.34
+     "nivel_min": -0.35
     },
     {
      "data": "2026-09-01",
@@ -54,7 +46,7 @@
      "hora_baixamar": 11,
      "inicio": 9,
      "fim": 12,
-     "nivel_min": -0.25
+     "nivel_min": -0.27
     },
     {
      "data": "2026-09-02",
@@ -62,7 +54,15 @@
      "hora_baixamar": 12,
      "inicio": 10,
      "fim": 13,
-     "nivel_min": -0.11
+     "nivel_min": -0.13
+    },
+    {
+     "data": "2026-09-03",
+     "dow": "Qui",
+     "hora_baixamar": 13,
+     "inicio": 11,
+     "fim": 14,
+     "nivel_min": 0.04
     }
    ]
   },
@@ -72,14 +72,6 @@
     "PRAIA DO LEBLON"
    ],
    "janelas": [
-    {
-     "data": "2026-08-27",
-     "dow": "Qui",
-     "hora_baixamar": 8,
-     "inicio": 8,
-     "fim": 9,
-     "nivel_min": -0.61
-    },
     {
      "data": "2026-08-28",
      "dow": "Sex",
@@ -94,14 +86,14 @@
      "hora_baixamar": 9,
      "inicio": 8,
      "fim": 10,
-     "nivel_min": -0.71
+     "nivel_min": -0.7
     },
     {
      "data": "2026-08-30",
      "dow": "Dom",
-     "hora_baixamar": 9,
+     "hora_baixamar": 10,
      "inicio": 8,
-     "fim": 10,
+     "fim": 11,
      "nivel_min": -0.46
     },
     {
@@ -110,7 +102,7 @@
      "hora_baixamar": 10,
      "inicio": 8,
      "fim": 11,
-     "nivel_min": -0.34
+     "nivel_min": -0.35
     },
     {
      "data": "2026-09-01",
@@ -118,7 +110,7 @@
      "hora_baixamar": 11,
      "inicio": 9,
      "fim": 12,
-     "nivel_min": -0.25
+     "nivel_min": -0.28
     },
     {
      "data": "2026-09-02",
@@ -126,7 +118,15 @@
      "hora_baixamar": 12,
      "inicio": 10,
      "fim": 13,
-     "nivel_min": -0.09
+     "nivel_min": -0.11
+    },
+    {
+     "data": "2026-09-03",
+     "dow": "Qui",
+     "hora_baixamar": 13,
+     "inicio": 11,
+     "fim": 14,
+     "nivel_min": 0.04
     }
    ]
   }

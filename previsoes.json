@@ -1,47 +1,31 @@
 {
- "gerado_em": "2026-09-02T08:30:07",
+ "gerado_em": "2026-09-04T08:41:32",
  "modo": "previsão Open-Meteo",
  "horizonte_dias": 7,
  "global": [
   {
-   "data": "2026-09-02",
-   "previsto": 2.0,
-   "nivel": "VERDE",
-   "feriado": 0,
-   "fim_semana": 0,
-   "prob_dia_alto": 0.004
-  },
-  {
-   "data": "2026-09-03",
-   "previsto": 14.0,
-   "nivel": "VERDE",
-   "feriado": 0,
-   "fim_semana": 0,
-   "prob_dia_alto": 0.022
-  },
-  {
    "data": "2026-09-04",
-   "previsto": 23.0,
+   "previsto": 31.0,
    "nivel": "AMARELO",
    "feriado": 0,
    "fim_semana": 0,
-   "prob_dia_alto": 0.129
+   "prob_dia_alto": 0.125
   },
   {
    "data": "2026-09-05",
-   "previsto": 17.0,
+   "previsto": 14.0,
    "nivel": "AMARELO",
    "feriado": 0,
    "fim_semana": 1,
-   "prob_dia_alto": 0.112
+   "prob_dia_alto": 0.101
   },
   {
    "data": "2026-09-06",
-   "previsto": 3.0,
+   "previsto": 4.0,
    "nivel": "VERDE",
    "feriado": 0,
    "fim_semana": 1,
-   "prob_dia_alto": 0.034
+   "prob_dia_alto": 0.048
   },
   {
    "data": "2026-09-07",
@@ -49,44 +33,42 @@
    "nivel": "VERDE",
    "feriado": 1,
    "fim_semana": 0,
-   "prob_dia_alto": 0.028
+   "prob_dia_alto": 0.029
   },
   {
    "data": "2026-09-08",
-   "previsto": 3.0,
+   "previsto": 1.0,
    "nivel": "VERDE",
    "feriado": 0,
    "fim_semana": 0,
-   "prob_dia_alto": 0.01
+   "prob_dia_alto": 0.004
+  },
+  {
+   "data": "2026-09-09",
+   "previsto": 1.0,
+   "nivel": "VERDE",
+   "feriado": 0,
+   "fim_semana": 0,
+   "prob_dia_alto": 0.003
+  },
+  {
+   "data": "2026-09-10",
+   "previsto": 5.0,
+   "nivel": "VERDE",
+   "feriado": 0,
+   "fim_semana": 0,
+   "prob_dia_alto": 0.007
   }
  ],
  "por_obm": [
-  {
-   "data": "2026-09-02",
-   "obm": "1º GMAR",
-   "cidade": "Rio de Janeiro",
-   "previsto": 0.0,
-   "nivel": "VERDE",
-   "temp_max": 22.7,
-   "onda_max": 1.64
-  },
-  {
-   "data": "2026-09-03",
-   "obm": "1º GMAR",
-   "cidade": "Rio de Janeiro",
-   "previsto": 0.1,
-   "nivel": "VERDE",
-   "temp_max": 24.6,
-   "onda_max": 1.68
-  },
   {
    "data": "2026-09-04",
    "obm": "1º GMAR",
    "cidade": "Rio de Janeiro",
    "previsto": 0.2,
    "nivel": "VERDE",
-   "temp_max": 28.8,
-   "onda_max": 1.54
+   "temp_max": 28.6,
+   "onda_max": 1.58
   },
   {
    "data": "2026-09-05",
@@ -94,8 +76,8 @@
    "cidade": "Rio de Janeiro",
    "previsto": 0.1,
    "nivel": "VERDE",
-   "temp_max": 23.8,
-   "onda_max": 0.86
+   "temp_max": 23.6,
+   "onda_max": 0.96
   },
   {
    "data": "2026-09-06",
@@ -103,8 +85,8 @@
    "cidade": "Rio de Janeiro",
    "previsto": 0.1,
    "nivel": "VERDE",
-   "temp_max": 20.7,
-   "onda_max": 1.72
+   "temp_max": 20.1,
+   "onda_max": 1.94
   },
   {
    "data": "2026-09-07",
@@ -112,35 +94,35 @@
    "cidade": "Rio de Janeiro",
    "previsto": 0.2,
    "nivel": "VERDE",
-   "temp_max": 18.6,
-   "onda_max": 2.32
+   "temp_max": 19.0,
+   "onda_max": 2.22
   },
   {
    "data": "2026-09-08",
    "obm": "1º GMAR",
    "cidade": "Rio de Janeiro",
+   "previsto": -0.0,
+   "nivel": "VERDE",
+   "temp_max": 21.8,
+   "onda_max": 1.62
+  },
+  {
+   "data": "2026-09-09",
+   "obm": "1º GMAR",
+   "cidade": "Rio de Janeiro",
    "previsto": 0.0,
    "nivel": "VERDE",
-   "temp_max": 20.0,
-   "onda_max": 1.94
+   "temp_max": 25.2,
+   "onda_max": 1.5
   },
   {
-   "data": "2026-09-02",
-   "obm": "18º GBM",
-   "cidade": "Cabo Frio",
-   "previsto": 0.5,
+   "data": "2026-09-10",
+   "obm": "1º GMAR",
+   "cidade": "Rio de Janeiro",
+   "previsto": 0.0,
    "nivel": "VERDE",
-   "temp_max": 23.7,
-   "onda_max": 1.58
-  },
-  {
-   "data": "2026-09-03",
-   "obm": "18º GBM",
-   "cidade": "Cabo Frio",
-   "previsto": 0.9,
-   "nivel": "VERDE",
-   "temp_max": 23.3,
-   "onda_max": 1.6
+   "temp_max": 25.9,
+   "onda_max": 1.22
   },
   {
    "data": "2026-09-04",
@@ -148,206 +130,206 @@
    "cidade": "Cabo Frio",
    "previsto": 1.3,
    "nivel": "VERDE",
-   "temp_max": 28.8,
-   "onda_max": 1.46
+   "temp_max": 29.1,
+   "onda_max": 1.48
   },
   {
    "data": "2026-09-05",
+   "obm": "18º GBM",
+   "cidade": "Cabo Frio",
+   "previsto": 6.0,
+   "nivel": "AMARELO",
+   "temp_max": 26.5,
+   "onda_max": 0.92
+  },
+  {
+   "data": "2026-09-06",
    "obm": "18º GBM",
    "cidade": "Cabo Frio",
    "previsto": 4.5,
    "nivel": "AMARELO",
-   "temp_max": 25.8,
-   "onda_max": 0.74
-  },
-  {
-   "data": "2026-09-06",
-   "obm": "18º GBM",
-   "cidade": "Cabo Frio",
-   "previsto": 4.7,
-   "nivel": "AMARELO",
-   "temp_max": 21.8,
-   "onda_max": 1.7
-  },
-  {
-   "data": "2026-09-07",
-   "obm": "18º GBM",
-   "cidade": "Cabo Frio",
-   "previsto": 3.2,
-   "nivel": "AMARELO",
-   "temp_max": 19.6,
-   "onda_max": 2.2
-  },
-  {
-   "data": "2026-09-08",
-   "obm": "18º GBM",
-   "cidade": "Cabo Frio",
-   "previsto": 0.5,
-   "nivel": "VERDE",
-   "temp_max": 20.7,
+   "temp_max": 21.1,
    "onda_max": 1.84
   },
   {
-   "data": "2026-09-02",
-   "obm": "26º GBM",
-   "cidade": "Paraty",
-   "previsto": 0.1,
-   "nivel": "VERDE",
-   "temp_max": 24.0,
-   "onda_max": 1.46
-  },
-  {
-   "data": "2026-09-03",
-   "obm": "26º GBM",
-   "cidade": "Paraty",
-   "previsto": 0.2,
-   "nivel": "VERDE",
-   "temp_max": 25.2,
-   "onda_max": 1.52
-  },
-  {
-   "data": "2026-09-04",
-   "obm": "26º GBM",
-   "cidade": "Paraty",
-   "previsto": 0.4,
-   "nivel": "VERDE",
-   "temp_max": 28.9,
-   "onda_max": 1.4
-  },
-  {
-   "data": "2026-09-05",
-   "obm": "26º GBM",
-   "cidade": "Paraty",
-   "previsto": 0.2,
-   "nivel": "VERDE",
-   "temp_max": 24.0,
-   "onda_max": 0.98
-  },
-  {
-   "data": "2026-09-06",
-   "obm": "26º GBM",
-   "cidade": "Paraty",
-   "previsto": 0.4,
-   "nivel": "VERDE",
-   "temp_max": 21.2,
-   "onda_max": 1.7
-  },
-  {
    "data": "2026-09-07",
-   "obm": "26º GBM",
-   "cidade": "Paraty",
-   "previsto": 0.5,
-   "nivel": "VERDE",
-   "temp_max": 17.1,
-   "onda_max": 2.32
-  },
-  {
-   "data": "2026-09-08",
-   "obm": "26º GBM",
-   "cidade": "Paraty",
-   "previsto": 0.1,
-   "nivel": "VERDE",
+   "obm": "18º GBM",
+   "cidade": "Cabo Frio",
+   "previsto": 2.3,
+   "nivel": "AMARELO",
    "temp_max": 19.9,
-   "onda_max": 1.76
-  },
-  {
-   "data": "2026-09-02",
-   "obm": "2º GMAR",
-   "cidade": "Rio de Janeiro",
-   "previsto": 0.1,
-   "nivel": "VERDE",
-   "temp_max": 23.2,
    "onda_max": 1.94
   },
   {
-   "data": "2026-09-03",
-   "obm": "2º GMAR",
-   "cidade": "Rio de Janeiro",
-   "previsto": 0.8,
+   "data": "2026-09-08",
+   "obm": "18º GBM",
+   "cidade": "Cabo Frio",
+   "previsto": 0.1,
    "nivel": "VERDE",
-   "temp_max": 25.3,
-   "onda_max": 1.98
+   "temp_max": 21.1,
+   "onda_max": 1.62
+  },
+  {
+   "data": "2026-09-09",
+   "obm": "18º GBM",
+   "cidade": "Cabo Frio",
+   "previsto": 0.4,
+   "nivel": "VERDE",
+   "temp_max": 23.6,
+   "onda_max": 1.46
+  },
+  {
+   "data": "2026-09-10",
+   "obm": "18º GBM",
+   "cidade": "Cabo Frio",
+   "previsto": 0.7,
+   "nivel": "VERDE",
+   "temp_max": 25.7,
+   "onda_max": 1.28
   },
   {
    "data": "2026-09-04",
-   "obm": "2º GMAR",
-   "cidade": "Rio de Janeiro",
-   "previsto": 1.6,
-   "nivel": "AMARELO",
-   "temp_max": 30.3,
-   "onda_max": 1.82
+   "obm": "26º GBM",
+   "cidade": "Paraty",
+   "previsto": 0.4,
+   "nivel": "VERDE",
+   "temp_max": 28.6,
+   "onda_max": 1.42
   },
   {
    "data": "2026-09-05",
-   "obm": "2º GMAR",
-   "cidade": "Rio de Janeiro",
-   "previsto": 1.2,
-   "nivel": "AMARELO",
-   "temp_max": 24.8,
+   "obm": "26º GBM",
+   "cidade": "Paraty",
+   "previsto": 0.2,
+   "nivel": "VERDE",
+   "temp_max": 23.4,
    "onda_max": 1.02
   },
   {
    "data": "2026-09-06",
-   "obm": "2º GMAR",
-   "cidade": "Rio de Janeiro",
-   "previsto": 0.4,
+   "obm": "26º GBM",
+   "cidade": "Paraty",
+   "previsto": 0.5,
    "nivel": "VERDE",
-   "temp_max": 20.8,
+   "temp_max": 20.4,
    "onda_max": 2.04
   },
   {
    "data": "2026-09-07",
+   "obm": "26º GBM",
+   "cidade": "Paraty",
+   "previsto": 0.5,
+   "nivel": "VERDE",
+   "temp_max": 17.0,
+   "onda_max": 2.2
+  },
+  {
+   "data": "2026-09-08",
+   "obm": "26º GBM",
+   "cidade": "Paraty",
+   "previsto": 0.1,
+   "nivel": "VERDE",
+   "temp_max": 21.0,
+   "onda_max": 1.52
+  },
+  {
+   "data": "2026-09-09",
+   "obm": "26º GBM",
+   "cidade": "Paraty",
+   "previsto": 0.1,
+   "nivel": "VERDE",
+   "temp_max": 24.4,
+   "onda_max": 1.52
+  },
+  {
+   "data": "2026-09-10",
+   "obm": "26º GBM",
+   "cidade": "Paraty",
+   "previsto": 0.1,
+   "nivel": "VERDE",
+   "temp_max": 24.5,
+   "onda_max": 1.16
+  },
+  {
+   "data": "2026-09-04",
+   "obm": "2º GMAR",
+   "cidade": "Rio de Janeiro",
+   "previsto": 1.5,
+   "nivel": "AMARELO",
+   "temp_max": 30.0,
+   "onda_max": 1.8
+  },
+  {
+   "data": "2026-09-05",
+   "obm": "2º GMAR",
+   "cidade": "Rio de Janeiro",
+   "previsto": 0.4,
+   "nivel": "VERDE",
+   "temp_max": 24.5,
+   "onda_max": 1.14
+  },
+  {
+   "data": "2026-09-06",
+   "obm": "2º GMAR",
+   "cidade": "Rio de Janeiro",
+   "previsto": 0.5,
+   "nivel": "VERDE",
+   "temp_max": 20.3,
+   "onda_max": 2.34
+  },
+  {
+   "data": "2026-09-07",
    "obm": "2º GMAR",
    "cidade": "Rio de Janeiro",
    "previsto": 0.2,
    "nivel": "VERDE",
-   "temp_max": 18.3,
-   "onda_max": 2.8
+   "temp_max": 19.1,
+   "onda_max": 2.68
   },
   {
    "data": "2026-09-08",
    "obm": "2º GMAR",
    "cidade": "Rio de Janeiro",
-   "previsto": 0.3,
+   "previsto": 0.0,
    "nivel": "VERDE",
-   "temp_max": 20.1,
-   "onda_max": 2.32
+   "temp_max": 22.0,
+   "onda_max": 1.94
   },
   {
-   "data": "2026-09-02",
-   "obm": "3º GMAR",
+   "data": "2026-09-09",
+   "obm": "2º GMAR",
    "cidade": "Rio de Janeiro",
-   "previsto": 0.6,
+   "previsto": 0.2,
    "nivel": "VERDE",
-   "temp_max": 23.0,
-   "onda_max": 1.96
+   "temp_max": 26.0,
+   "onda_max": 1.82
   },
   {
-   "data": "2026-09-03",
-   "obm": "3º GMAR",
+   "data": "2026-09-10",
+   "obm": "2º GMAR",
    "cidade": "Rio de Janeiro",
-   "previsto": 4.2,
-   "nivel": "AMARELO",
-   "temp_max": 24.9,
-   "onda_max": 2.0
+   "previsto": 0.4,
+   "nivel": "VERDE",
+   "temp_max": 27.0,
+   "onda_max": 1.46
   },
   {
    "data": "2026-09-04",
    "obm": "3º GMAR",
    "cidade": "Rio de Janeiro",
-   "previsto": 11.8,
+   "previsto": 12.1,
    "nivel": "AMARELO",
-   "temp_max": 29.1,
-   "onda_max": 1.84
+   "temp_max": 28.9,
+   "onda_max": 1.82
   },
   {
    "data": "2026-09-05",
    "obm": "3º GMAR",
    "cidade": "Rio de Janeiro",
-   "previsto": 4.4,
-   "nivel": "AMARELO",
-   "temp_max": 24.1,
-   "onda_max": 1.02
+   "previsto": 1.5,
+   "nivel": "VERDE",
+   "temp_max": 23.9,
+   "onda_max": 1.14
   },
   {
    "data": "2026-09-06",
@@ -355,107 +337,107 @@
    "cidade": "Rio de Janeiro",
    "previsto": 1.7,
    "nivel": "VERDE",
-   "temp_max": 21.0,
-   "onda_max": 2.04
+   "temp_max": 20.4,
+   "onda_max": 2.34
   },
   {
    "data": "2026-09-07",
    "obm": "3º GMAR",
    "cidade": "Rio de Janeiro",
-   "previsto": 2.1,
+   "previsto": 2.2,
    "nivel": "VERDE",
-   "temp_max": 18.9,
-   "onda_max": 2.8
+   "temp_max": 19.3,
+   "onda_max": 2.7
   },
   {
    "data": "2026-09-08",
    "obm": "3º GMAR",
    "cidade": "Rio de Janeiro",
-   "previsto": 0.4,
+   "previsto": 0.2,
    "nivel": "VERDE",
-   "temp_max": 20.3,
-   "onda_max": 2.34
+   "temp_max": 22.1,
+   "onda_max": 1.96
   },
   {
-   "data": "2026-09-02",
-   "obm": "4º GMAR",
-   "cidade": "Niterói",
-   "previsto": 0.1,
+   "data": "2026-09-09",
+   "obm": "3º GMAR",
+   "cidade": "Rio de Janeiro",
+   "previsto": 1.3,
    "nivel": "VERDE",
-   "temp_max": 23.2,
-   "onda_max": 2.04
+   "temp_max": 25.5,
+   "onda_max": 1.84
   },
   {
-   "data": "2026-09-03",
-   "obm": "4º GMAR",
-   "cidade": "Niterói",
-   "previsto": 1.2,
-   "nivel": "AMARELO",
-   "temp_max": 26.5,
-   "onda_max": 2.06
+   "data": "2026-09-10",
+   "obm": "3º GMAR",
+   "cidade": "Rio de Janeiro",
+   "previsto": 1.7,
+   "nivel": "VERDE",
+   "temp_max": 26.2,
+   "onda_max": 1.46
   },
   {
    "data": "2026-09-04",
    "obm": "4º GMAR",
    "cidade": "Niterói",
-   "previsto": 2.2,
+   "previsto": 2.1,
    "nivel": "AMARELO",
-   "temp_max": 29.2,
-   "onda_max": 1.9
+   "temp_max": 28.9,
+   "onda_max": 1.88
   },
   {
    "data": "2026-09-05",
    "obm": "4º GMAR",
    "cidade": "Niterói",
-   "previsto": 0.4,
+   "previsto": 0.9,
    "nivel": "VERDE",
-   "temp_max": 24.8,
-   "onda_max": 1.02
+   "temp_max": 25.7,
+   "onda_max": 1.16
   },
   {
    "data": "2026-09-06",
    "obm": "4º GMAR",
    "cidade": "Niterói",
-   "previsto": 0.5,
+   "previsto": 0.6,
    "nivel": "VERDE",
-   "temp_max": 20.5,
-   "onda_max": 2.08
+   "temp_max": 20.2,
+   "onda_max": 2.4
   },
   {
    "data": "2026-09-07",
    "obm": "4º GMAR",
    "cidade": "Niterói",
-   "previsto": 0.5,
+   "previsto": 0.4,
    "nivel": "VERDE",
-   "temp_max": 19.0,
-   "onda_max": 2.86
+   "temp_max": 19.7,
+   "onda_max": 2.76
   },
   {
    "data": "2026-09-08",
    "obm": "4º GMAR",
    "cidade": "Niterói",
-   "previsto": 0.2,
-   "nivel": "VERDE",
-   "temp_max": 20.6,
-   "onda_max": 2.38
-  },
-  {
-   "data": "2026-09-02",
-   "obm": "5º GBM",
-   "cidade": "Campos dos Goytacazes",
    "previsto": 0.0,
    "nivel": "VERDE",
-   "temp_max": 25.0,
-   "onda_max": null
+   "temp_max": 22.1,
+   "onda_max": 2.02
   },
   {
-   "data": "2026-09-03",
-   "obm": "5º GBM",
-   "cidade": "Campos dos Goytacazes",
-   "previsto": 0.1,
+   "data": "2026-09-09",
+   "obm": "4º GMAR",
+   "cidade": "Niterói",
+   "previsto": 0.4,
    "nivel": "VERDE",
-   "temp_max": 24.9,
-   "onda_max": null
+   "temp_max": 27.5,
+   "onda_max": 1.94
+  },
+  {
+   "data": "2026-09-10",
+   "obm": "4º GMAR",
+   "cidade": "Niterói",
+   "previsto": 0.3,
+   "nivel": "VERDE",
+   "temp_max": 26.9,
+   "onda_max": 1.54
   },
   {
    "data": "2026-09-04",
@@ -463,7 +445,7 @@
    "cidade": "Campos dos Goytacazes",
    "previsto": 0.1,
    "nivel": "VERDE",
-   "temp_max": 30.1,
+   "temp_max": 30.3,
    "onda_max": null
   },
   {
@@ -472,7 +454,7 @@
    "cidade": "Campos dos Goytacazes",
    "previsto": 0.3,
    "nivel": "VERDE",
-   "temp_max": 28.9,
+   "temp_max": 31.4,
    "onda_max": null
   },
   {
@@ -481,7 +463,7 @@
    "cidade": "Campos dos Goytacazes",
    "previsto": 0.2,
    "nivel": "VERDE",
-   "temp_max": 24.8,
+   "temp_max": 24.5,
    "onda_max": null
   },
   {
@@ -489,36 +471,36 @@
    "obm": "5º GBM",
    "cidade": "Campos dos Goytacazes",
    "previsto": 0.1,
-   "nivel": "VERDE",
-   "temp_max": 19.4,
-   "onda_max": null
-  },
-  {
-   "data": "2026-09-08",
-   "obm": "5º GBM",
-   "cidade": "Campos dos Goytacazes",
-   "previsto": 0.0,
    "nivel": "VERDE",
    "temp_max": 20.9,
    "onda_max": null
   },
   {
-   "data": "2026-09-02",
-   "obm": "9º GBM",
-   "cidade": "Macaé",
-   "previsto": -0.1,
+   "data": "2026-09-08",
+   "obm": "5º GBM",
+   "cidade": "Campos dos Goytacazes",
+   "previsto": 0.0,
    "nivel": "VERDE",
-   "temp_max": 24.4,
-   "onda_max": 0.92
+   "temp_max": 21.2,
+   "onda_max": null
   },
   {
-   "data": "2026-09-03",
-   "obm": "9º GBM",
-   "cidade": "Macaé",
-   "previsto": 0.1,
+   "data": "2026-09-09",
+   "obm": "5º GBM",
+   "cidade": "Campos dos Goytacazes",
+   "previsto": 0.0,
    "nivel": "VERDE",
-   "temp_max": 24.8,
-   "onda_max": 1.32
+   "temp_max": 26.9,
+   "onda_max": null
+  },
+  {
+   "data": "2026-09-10",
+   "obm": "5º GBM",
+   "cidade": "Campos dos Goytacazes",
+   "previsto": 0.0,
+   "nivel": "VERDE",
+   "temp_max": 27.0,
+   "onda_max": null
   },
   {
    "data": "2026-09-04",
@@ -526,17 +508,17 @@
    "cidade": "Macaé",
    "previsto": 0.3,
    "nivel": "VERDE",
-   "temp_max": 31.4,
-   "onda_max": 1.14
+   "temp_max": 30.9,
+   "onda_max": 1.16
   },
   {
    "data": "2026-09-05",
    "obm": "9º GBM",
    "cidade": "Macaé",
-   "previsto": 0.4,
+   "previsto": 0.3,
    "nivel": "VERDE",
-   "temp_max": 26.2,
-   "onda_max": 0.66
+   "temp_max": 25.8,
+   "onda_max": 0.72
   },
   {
    "data": "2026-09-06",
@@ -544,44 +526,44 @@
    "cidade": "Macaé",
    "previsto": 0.2,
    "nivel": "VERDE",
-   "temp_max": 22.0,
-   "onda_max": 1.26
+   "temp_max": 22.3,
+   "onda_max": 1.34
   },
   {
    "data": "2026-09-07",
    "obm": "9º GBM",
    "cidade": "Macaé",
-   "previsto": 0.5,
+   "previsto": 0.2,
    "nivel": "VERDE",
-   "temp_max": 18.8,
-   "onda_max": 1.3
+   "temp_max": 19.6,
+   "onda_max": 1.24
   },
   {
    "data": "2026-09-08",
    "obm": "9º GBM",
    "cidade": "Macaé",
-   "previsto": 0.0,
-   "nivel": "VERDE",
-   "temp_max": 20.7,
-   "onda_max": 1.04
-  },
-  {
-   "data": "2026-09-02",
-   "obm": "DBM 1/26",
-   "cidade": "Paraty",
-   "previsto": -0.0,
-   "nivel": "VERDE",
-   "temp_max": 22.6,
-   "onda_max": 0.58
-  },
-  {
-   "data": "2026-09-03",
-   "obm": "DBM 1/26",
-   "cidade": "Paraty",
    "previsto": -0.1,
    "nivel": "VERDE",
-   "temp_max": 22.5,
-   "onda_max": 0.72
+   "temp_max": 20.0,
+   "onda_max": 1.2
+  },
+  {
+   "data": "2026-09-09",
+   "obm": "9º GBM",
+   "cidade": "Macaé",
+   "previsto": -0.0,
+   "nivel": "VERDE",
+   "temp_max": 23.7,
+   "onda_max": 1.2
+  },
+  {
+   "data": "2026-09-10",
+   "obm": "9º GBM",
+   "cidade": "Macaé",
+   "previsto": 0.1,
+   "nivel": "VERDE",
+   "temp_max": 28.5,
+   "onda_max": 1.02
   },
   {
    "data": "2026-09-04",
@@ -590,7 +572,7 @@
    "previsto": 0.0,
    "nivel": "VERDE",
    "temp_max": 27.1,
-   "onda_max": 0.72
+   "onda_max": 0.66
   },
   {
    "data": "2026-09-05",
@@ -598,8 +580,8 @@
    "cidade": "Paraty",
    "previsto": -0.2,
    "nivel": "VERDE",
-   "temp_max": 22.3,
-   "onda_max": 0.48
+   "temp_max": 22.4,
+   "onda_max": 0.54
   },
   {
    "data": "2026-09-06",
@@ -607,7 +589,7 @@
    "cidade": "Paraty",
    "previsto": 0.2,
    "nivel": "VERDE",
-   "temp_max": 20.1,
+   "temp_max": 20.4,
    "onda_max": 0.92
   },
   {
@@ -617,7 +599,7 @@
    "previsto": 0.4,
    "nivel": "VERDE",
    "temp_max": 17.5,
-   "onda_max": 0.96
+   "onda_max": 0.94
   },
   {
    "data": "2026-09-08",
@@ -625,26 +607,26 @@
    "cidade": "Paraty",
    "previsto": -0.1,
    "nivel": "VERDE",
-   "temp_max": 19.0,
-   "onda_max": 0.72
+   "temp_max": 19.2,
+   "onda_max": 0.74
   },
   {
-   "data": "2026-09-02",
-   "obm": "DBM 1/27",
-   "cidade": "Saquarema",
-   "previsto": 0.0,
+   "data": "2026-09-09",
+   "obm": "DBM 1/26",
+   "cidade": "Paraty",
+   "previsto": -0.1,
    "nivel": "VERDE",
-   "temp_max": 23.3,
-   "onda_max": 2.12
+   "temp_max": 22.7,
+   "onda_max": 0.76
   },
   {
-   "data": "2026-09-03",
-   "obm": "DBM 1/27",
-   "cidade": "Saquarema",
-   "previsto": 0.1,
+   "data": "2026-09-10",
+   "obm": "DBM 1/26",
+   "cidade": "Paraty",
+   "previsto": -0.1,
    "nivel": "VERDE",
-   "temp_max": 25.9,
-   "onda_max": 2.1
+   "temp_max": 24.5,
+   "onda_max": 0.52
   },
   {
    "data": "2026-09-04",
@@ -652,17 +634,17 @@
    "cidade": "Saquarema",
    "previsto": 0.1,
    "nivel": "VERDE",
-   "temp_max": 28.5,
-   "onda_max": 1.84
+   "temp_max": 28.8,
+   "onda_max": 1.88
   },
   {
    "data": "2026-09-05",
    "obm": "DBM 1/27",
    "cidade": "Saquarema",
-   "previsto": 0.2,
+   "previsto": 0.3,
    "nivel": "VERDE",
-   "temp_max": 24.5,
-   "onda_max": 0.98
+   "temp_max": 25.3,
+   "onda_max": 1.16
   },
   {
    "data": "2026-09-06",
@@ -670,17 +652,17 @@
    "cidade": "Saquarema",
    "previsto": 0.3,
    "nivel": "VERDE",
-   "temp_max": 21.1,
-   "onda_max": 2.18
+   "temp_max": 20.3,
+   "onda_max": 2.48
   },
   {
    "data": "2026-09-07",
    "obm": "DBM 1/27",
    "cidade": "Saquarema",
-   "previsto": 0.3,
+   "previsto": 0.2,
    "nivel": "VERDE",
-   "temp_max": 18.7,
-   "onda_max": 2.9
+   "temp_max": 17.5,
+   "onda_max": 2.8
   },
   {
    "data": "2026-09-08",
@@ -688,26 +670,26 @@
    "cidade": "Saquarema",
    "previsto": -0.0,
    "nivel": "VERDE",
-   "temp_max": 20.4,
-   "onda_max": 2.52
+   "temp_max": 21.3,
+   "onda_max": 2.08
   },
   {
-   "data": "2026-09-02",
-   "obm": "DBM 1/M",
-   "cidade": "Rio de Janeiro",
-   "previsto": -0.0,
+   "data": "2026-09-09",
+   "obm": "DBM 1/27",
+   "cidade": "Saquarema",
+   "previsto": 0.0,
    "nivel": "VERDE",
-   "temp_max": 24.1,
-   "onda_max": 0.62
+   "temp_max": 25.3,
+   "onda_max": 1.88
   },
   {
-   "data": "2026-09-03",
-   "obm": "DBM 1/M",
-   "cidade": "Rio de Janeiro",
+   "data": "2026-09-10",
+   "obm": "DBM 1/27",
+   "cidade": "Saquarema",
    "previsto": -0.0,
    "nivel": "VERDE",
-   "temp_max": 24.9,
-   "onda_max": 0.62
+   "temp_max": 27.9,
+   "onda_max": 1.6
   },
   {
    "data": "2026-09-04",
@@ -715,8 +697,8 @@
    "cidade": "Rio de Janeiro",
    "previsto": -0.1,
    "nivel": "VERDE",
-   "temp_max": 29.8,
-   "onda_max": 0.48
+   "temp_max": 30.3,
+   "onda_max": 0.52
   },
   {
    "data": "2026-09-05",
@@ -724,8 +706,8 @@
    "cidade": "Rio de Janeiro",
    "previsto": -0.2,
    "nivel": "VERDE",
-   "temp_max": 25.6,
-   "onda_max": 0.32
+   "temp_max": 26.0,
+   "onda_max": 0.34
   },
   {
    "data": "2026-09-06",
@@ -733,8 +715,8 @@
    "cidade": "Rio de Janeiro",
    "previsto": -0.0,
    "nivel": "VERDE",
-   "temp_max": 20.3,
-   "onda_max": 0.68
+   "temp_max": 20.4,
+   "onda_max": 0.74
   },
   {
    "data": "2026-09-07",
@@ -742,8 +724,8 @@
    "cidade": "Rio de Janeiro",
    "previsto": 0.0,
    "nivel": "VERDE",
-   "temp_max": 17.2,
-   "onda_max": 0.84
+   "temp_max": 17.8,
+   "onda_max": 0.82
   },
   {
    "data": "2026-09-08",
@@ -751,26 +733,26 @@
    "cidade": "Rio de Janeiro",
    "previsto": -0.0,
    "nivel": "VERDE",
-   "temp_max": 21.0,
-   "onda_max": 0.72
+   "temp_max": 18.9,
+   "onda_max": 0.6
   },
   {
-   "data": "2026-09-02",
-   "obm": "DBM 2/10",
-   "cidade": "Ilha Grande",
-   "previsto": 0.0,
+   "data": "2026-09-09",
+   "obm": "DBM 1/M",
+   "cidade": "Rio de Janeiro",
+   "previsto": -0.0,
    "nivel": "VERDE",
-   "temp_max": 22.2,
-   "onda_max": 1.38
+   "temp_max": 24.8,
+   "onda_max": 0.48
   },
   {
-   "data": "2026-09-03",
-   "obm": "DBM 2/10",
-   "cidade": "Ilha Grande",
-   "previsto": 0.2,
+   "data": "2026-09-10",
+   "obm": "DBM 1/M",
+   "cidade": "Rio de Janeiro",
+   "previsto": -0.1,
    "nivel": "VERDE",
-   "temp_max": 23.2,
-   "onda_max": 1.38
+   "temp_max": 28.7,
+   "onda_max": 0.36
   },
   {
    "data": "2026-09-04",
@@ -778,125 +760,125 @@
    "cidade": "Ilha Grande",
    "previsto": 0.4,
    "nivel": "VERDE",
-   "temp_max": 28.1,
+   "temp_max": 28.6,
+   "onda_max": 1.22
+  },
+  {
+   "data": "2026-09-05",
+   "obm": "DBM 2/10",
+   "cidade": "Ilha Grande",
+   "previsto": 0.1,
+   "nivel": "VERDE",
+   "temp_max": 22.6,
+   "onda_max": 0.92
+  },
+  {
+   "data": "2026-09-06",
+   "obm": "DBM 2/10",
+   "cidade": "Ilha Grande",
+   "previsto": 0.1,
+   "nivel": "VERDE",
+   "temp_max": 20.5,
+   "onda_max": 1.84
+  },
+  {
+   "data": "2026-09-07",
+   "obm": "DBM 2/10",
+   "cidade": "Ilha Grande",
+   "previsto": 0.2,
+   "nivel": "VERDE",
+   "temp_max": 16.7,
+   "onda_max": 2.04
+  },
+  {
+   "data": "2026-09-08",
+   "obm": "DBM 2/10",
+   "cidade": "Ilha Grande",
+   "previsto": 0.1,
+   "nivel": "VERDE",
+   "temp_max": 21.1,
+   "onda_max": 1.38
+  },
+  {
+   "data": "2026-09-09",
+   "obm": "DBM 2/10",
+   "cidade": "Ilha Grande",
+   "previsto": 0.1,
+   "nivel": "VERDE",
+   "temp_max": 24.1,
+   "onda_max": 1.3
+  },
+  {
+   "data": "2026-09-10",
+   "obm": "DBM 2/10",
+   "cidade": "Ilha Grande",
+   "previsto": 0.1,
+   "nivel": "VERDE",
+   "temp_max": 23.5,
+   "onda_max": 0.98
+  },
+  {
+   "data": "2026-09-04",
+   "obm": "DBM 2/9",
+   "cidade": "Rio das Ostras",
+   "previsto": 0.2,
+   "nivel": "VERDE",
+   "temp_max": 30.9,
    "onda_max": 1.24
   },
   {
    "data": "2026-09-05",
-   "obm": "DBM 2/10",
-   "cidade": "Ilha Grande",
+   "obm": "DBM 2/9",
+   "cidade": "Rio das Ostras",
    "previsto": 0.1,
    "nivel": "VERDE",
-   "temp_max": 23.7,
-   "onda_max": 0.86
+   "temp_max": 25.9,
+   "onda_max": 0.78
   },
   {
    "data": "2026-09-06",
-   "obm": "DBM 2/10",
-   "cidade": "Ilha Grande",
-   "previsto": 0.1,
+   "obm": "DBM 2/9",
+   "cidade": "Rio das Ostras",
+   "previsto": 0.4,
    "nivel": "VERDE",
-   "temp_max": 20.4,
-   "onda_max": 1.56
+   "temp_max": 21.5,
+   "onda_max": 1.22
   },
   {
    "data": "2026-09-07",
-   "obm": "DBM 2/10",
-   "cidade": "Ilha Grande",
-   "previsto": 0.1,
+   "obm": "DBM 2/9",
+   "cidade": "Rio das Ostras",
+   "previsto": 0.3,
    "nivel": "VERDE",
-   "temp_max": 16.0,
-   "onda_max": 2.1
+   "temp_max": 19.0,
+   "onda_max": 1.1
   },
   {
    "data": "2026-09-08",
-   "obm": "DBM 2/10",
-   "cidade": "Ilha Grande",
-   "previsto": 0.1,
-   "nivel": "VERDE",
-   "temp_max": 19.6,
-   "onda_max": 1.68
-  },
-  {
-   "data": "2026-09-02",
    "obm": "DBM 2/9",
    "cidade": "Rio das Ostras",
-   "previsto": -0.0,
+   "previsto": -0.1,
    "nivel": "VERDE",
-   "temp_max": 24.4,
-   "onda_max": 0.96
-  },
-  {
-   "data": "2026-09-03",
-   "obm": "DBM 2/9",
-   "cidade": "Rio das Ostras",
-   "previsto": 0.1,
-   "nivel": "VERDE",
-   "temp_max": 24.9,
-   "onda_max": 1.42
-  },
-  {
-   "data": "2026-09-04",
-   "obm": "DBM 2/9",
-   "cidade": "Rio das Ostras",
-   "previsto": 0.2,
-   "nivel": "VERDE",
-   "temp_max": 31.1,
+   "temp_max": 19.8,
    "onda_max": 1.3
   },
   {
-   "data": "2026-09-05",
+   "data": "2026-09-09",
    "obm": "DBM 2/9",
    "cidade": "Rio das Ostras",
-   "previsto": 0.2,
-   "nivel": "VERDE",
-   "temp_max": 26.6,
-   "onda_max": 0.72
-  },
-  {
-   "data": "2026-09-06",
-   "obm": "DBM 2/9",
-   "cidade": "Rio das Ostras",
-   "previsto": 0.6,
-   "nivel": "VERDE",
-   "temp_max": 21.5,
-   "onda_max": 1.18
-  },
-  {
-   "data": "2026-09-07",
-   "obm": "DBM 2/9",
-   "cidade": "Rio das Ostras",
-   "previsto": 0.5,
-   "nivel": "VERDE",
-   "temp_max": 18.2,
-   "onda_max": 1.18
-  },
-  {
-   "data": "2026-09-08",
-   "obm": "DBM 2/9",
-   "cidade": "Rio das Ostras",
-   "previsto": -0.0,
-   "nivel": "VERDE",
-   "temp_max": 20.5,
-   "onda_max": 0.9
-  },
-  {
-   "data": "2026-09-02",
-   "obm": "DBM 2/M",
-   "cidade": "Rio de Janeiro",
    "previsto": 0.0,
    "nivel": "VERDE",
-   "temp_max": 23.3,
-   "onda_max": 1.06
+   "temp_max": 24.2,
+   "onda_max": 1.46
   },
   {
-   "data": "2026-09-03",
-   "obm": "DBM 2/M",
-   "cidade": "Rio de Janeiro",
+   "data": "2026-09-10",
+   "obm": "DBM 2/9",
+   "cidade": "Rio das Ostras",
    "previsto": 0.1,
    "nivel": "VERDE",
-   "temp_max": 25.6,
-   "onda_max": 1.06
+   "temp_max": 29.9,
+   "onda_max": 1.32
   },
   {
    "data": "2026-09-04",
@@ -904,8 +886,8 @@
    "cidade": "Rio de Janeiro",
    "previsto": 0.2,
    "nivel": "VERDE",
-   "temp_max": 30.6,
-   "onda_max": 0.92
+   "temp_max": 31.2,
+   "onda_max": 0.98
   },
   {
    "data": "2026-09-05",
@@ -913,17 +895,17 @@
    "cidade": "Rio de Janeiro",
    "previsto": -0.1,
    "nivel": "VERDE",
-   "temp_max": 25.3,
-   "onda_max": 0.54
+   "temp_max": 25.6,
+   "onda_max": 0.6
   },
   {
    "data": "2026-09-06",
    "obm": "DBM 2/M",
    "cidade": "Rio de Janeiro",
-   "previsto": 0.1,
+   "previsto": 0.0,
    "nivel": "VERDE",
-   "temp_max": 21.2,
-   "onda_max": 1.12
+   "temp_max": 21.0,
+   "onda_max": 1.24
   },
   {
    "data": "2026-09-07",
@@ -931,35 +913,35 @@
    "cidade": "Rio de Janeiro",
    "previsto": 0.2,
    "nivel": "VERDE",
-   "temp_max": 18.2,
-   "onda_max": 1.46
+   "temp_max": 18.9,
+   "onda_max": 1.42
   },
   {
    "data": "2026-09-08",
    "obm": "DBM 2/M",
    "cidade": "Rio de Janeiro",
-   "previsto": -0.0,
-   "nivel": "VERDE",
-   "temp_max": 20.3,
-   "onda_max": 1.26
-  },
-  {
-   "data": "2026-09-02",
-   "obm": "DBM 3/5",
-   "cidade": "São João da Barra",
-   "previsto": -0.0,
-   "nivel": "VERDE",
-   "temp_max": 24.3,
-   "onda_max": 1.32
-  },
-  {
-   "data": "2026-09-03",
-   "obm": "DBM 3/5",
-   "cidade": "São João da Barra",
    "previsto": 0.0,
    "nivel": "VERDE",
-   "temp_max": 23.7,
-   "onda_max": 1.44
+   "temp_max": 21.3,
+   "onda_max": 1.04
+  },
+  {
+   "data": "2026-09-09",
+   "obm": "DBM 2/M",
+   "cidade": "Rio de Janeiro",
+   "previsto": 0.0,
+   "nivel": "VERDE",
+   "temp_max": 26.3,
+   "onda_max": 0.88
+  },
+  {
+   "data": "2026-09-10",
+   "obm": "DBM 2/M",
+   "cidade": "Rio de Janeiro",
+   "previsto": -0.0,
+   "nivel": "VERDE",
+   "temp_max": 27.8,
+   "onda_max": 0.68
   },
   {
    "data": "2026-09-04",
@@ -968,16 +950,16 @@
    "previsto": 0.1,
    "nivel": "VERDE",
    "temp_max": 25.3,
-   "onda_max": 1.46
+   "onda_max": 1.5
   },
   {
    "data": "2026-09-05",
    "obm": "DBM 3/5",
    "cidade": "São João da Barra",
-   "previsto": 0.6,
+   "previsto": 0.5,
    "nivel": "VERDE",
-   "temp_max": 27.9,
-   "onda_max": 1.04
+   "temp_max": 27.8,
+   "onda_max": 1.12
   },
   {
    "data": "2026-09-06",
@@ -985,8 +967,8 @@
    "cidade": "São João da Barra",
    "previsto": 0.4,
    "nivel": "VERDE",
-   "temp_max": 24.8,
-   "onda_max": 1.58
+   "temp_max": 23.8,
+   "onda_max": 1.64
   },
   {
    "data": "2026-09-07",
@@ -994,35 +976,35 @@
    "cidade": "São João da Barra",
    "previsto": 0.2,
    "nivel": "VERDE",
-   "temp_max": 20.2,
-   "onda_max": 1.66
+   "temp_max": 20.1,
+   "onda_max": 1.4
   },
   {
    "data": "2026-09-08",
    "obm": "DBM 3/5",
    "cidade": "São João da Barra",
+   "previsto": -0.0,
+   "nivel": "VERDE",
+   "temp_max": 21.6,
+   "onda_max": 1.42
+  },
+  {
+   "data": "2026-09-09",
+   "obm": "DBM 3/5",
+   "cidade": "São João da Barra",
+   "previsto": -0.0,
+   "nivel": "VERDE",
+   "temp_max": 24.7,
+   "onda_max": 1.44
+  },
+  {
+   "data": "2026-09-10",
+   "obm": "DBM 3/5",
+   "cidade": "São João da Barra",
    "previsto": 0.0,
    "nivel": "VERDE",
-   "temp_max": 21.5,
-   "onda_max": 1.24
-  },
-  {
-   "data": "2026-09-02",
-   "obm": "DBM 3/M",
-   "cidade": "Rio de Janeiro",
-   "previsto": 0.1,
-   "nivel": "VERDE",
-   "temp_max": 22.9,
-   "onda_max": 1.84
-  },
-  {
-   "data": "2026-09-03",
-   "obm": "DBM 3/M",
-   "cidade": "Rio de Janeiro",
-   "previsto": 0.7,
-   "nivel": "VERDE",
-   "temp_max": 24.4,
-   "onda_max": 1.88
+   "temp_max": 25.3,
+   "onda_max": 1.6
   },
   {
    "data": "2026-09-04",
@@ -1030,125 +1012,125 @@
    "cidade": "Rio de Janeiro",
    "previsto": 1.6,
    "nivel": "AMARELO",
-   "temp_max": 30.1,
-   "onda_max": 1.7
+   "temp_max": 30.3,
+   "onda_max": 1.68
   },
   {
    "data": "2026-09-05",
    "obm": "DBM 3/M",
    "cidade": "Rio de Janeiro",
-   "previsto": 0.6,
+   "previsto": 0.4,
    "nivel": "VERDE",
-   "temp_max": 23.9,
-   "onda_max": 1.0
+   "temp_max": 24.1,
+   "onda_max": 1.1
   },
   {
    "data": "2026-09-06",
    "obm": "DBM 3/M",
    "cidade": "Rio de Janeiro",
-   "previsto": 0.2,
+   "previsto": 0.4,
    "nivel": "VERDE",
-   "temp_max": 20.8,
-   "onda_max": 1.96
+   "temp_max": 20.5,
+   "onda_max": 2.26
   },
   {
    "data": "2026-09-07",
    "obm": "DBM 3/M",
    "cidade": "Rio de Janeiro",
-   "previsto": 0.2,
+   "previsto": 0.3,
    "nivel": "VERDE",
-   "temp_max": 18.9,
-   "onda_max": 2.68
+   "temp_max": 19.2,
+   "onda_max": 2.58
   },
   {
    "data": "2026-09-08",
    "obm": "DBM 3/M",
    "cidade": "Rio de Janeiro",
-   "previsto": 0.2,
-   "nivel": "VERDE",
-   "temp_max": 20.2,
-   "onda_max": 2.22
-  },
-  {
-   "data": "2026-09-02",
-   "obm": "DBM 4/M",
-   "cidade": "Rio de Janeiro",
    "previsto": 0.0,
    "nivel": "VERDE",
-   "temp_max": 22.8,
+   "temp_max": 22.5,
    "onda_max": 1.84
   },
   {
-   "data": "2026-09-03",
-   "obm": "DBM 4/M",
+   "data": "2026-09-09",
+   "obm": "DBM 3/M",
+   "cidade": "Rio de Janeiro",
+   "previsto": 0.1,
+   "nivel": "VERDE",
+   "temp_max": 24.5,
+   "onda_max": 1.7
+  },
+  {
+   "data": "2026-09-10",
+   "obm": "DBM 3/M",
    "cidade": "Rio de Janeiro",
    "previsto": 0.3,
    "nivel": "VERDE",
-   "temp_max": 24.4,
-   "onda_max": 1.82
+   "temp_max": 26.2,
+   "onda_max": 1.36
   },
   {
    "data": "2026-09-04",
    "obm": "DBM 4/M",
    "cidade": "Rio de Janeiro",
-   "previsto": 0.6,
+   "previsto": 0.7,
    "nivel": "VERDE",
-   "temp_max": 30.1,
-   "onda_max": 1.64
+   "temp_max": 30.2,
+   "onda_max": 1.62
   },
   {
    "data": "2026-09-05",
-   "obm": "DBM 4/M",
-   "cidade": "Rio de Janeiro",
-   "previsto": 0.3,
-   "nivel": "VERDE",
-   "temp_max": 23.9,
-   "onda_max": 1.0
-  },
-  {
-   "data": "2026-09-06",
    "obm": "DBM 4/M",
    "cidade": "Rio de Janeiro",
    "previsto": 0.2,
    "nivel": "VERDE",
-   "temp_max": 20.7,
-   "onda_max": 1.96
+   "temp_max": 24.1,
+   "onda_max": 1.08
+  },
+  {
+   "data": "2026-09-06",
+   "obm": "DBM 4/M",
+   "cidade": "Rio de Janeiro",
+   "previsto": 0.3,
+   "nivel": "VERDE",
+   "temp_max": 20.5,
+   "onda_max": 2.28
   },
   {
    "data": "2026-09-07",
    "obm": "DBM 4/M",
    "cidade": "Rio de Janeiro",
-   "previsto": 0.3,
+   "previsto": 0.4,
    "nivel": "VERDE",
-   "temp_max": 18.8,
-   "onda_max": 2.68
+   "temp_max": 19.1,
+   "onda_max": 2.6
   },
   {
    "data": "2026-09-08",
    "obm": "DBM 4/M",
    "cidade": "Rio de Janeiro",
-   "previsto": 0.1,
-   "nivel": "VERDE",
-   "temp_max": 20.2,
-   "onda_max": 2.22
-  },
-  {
-   "data": "2026-09-02",
-   "obm": "DBM 5/M",
-   "cidade": "Rio de Janeiro",
    "previsto": -0.0,
    "nivel": "VERDE",
-   "temp_max": 23.0,
-   "onda_max": 1.32
+   "temp_max": 22.5,
+   "onda_max": 1.84
   },
   {
-   "data": "2026-09-03",
-   "obm": "DBM 5/M",
+   "data": "2026-09-09",
+   "obm": "DBM 4/M",
    "cidade": "Rio de Janeiro",
    "previsto": 0.0,
    "nivel": "VERDE",
-   "temp_max": 27.8,
-   "onda_max": 1.3
+   "temp_max": 24.4,
+   "onda_max": 1.66
+  },
+  {
+   "data": "2026-09-10",
+   "obm": "DBM 4/M",
+   "cidade": "Rio de Janeiro",
+   "previsto": 0.1,
+   "nivel": "VERDE",
+   "temp_max": 26.2,
+   "onda_max": 1.32
   },
   {
    "data": "2026-09-04",
@@ -1156,17 +1138,17 @@
    "cidade": "Rio de Janeiro",
    "previsto": 0.0,
    "nivel": "VERDE",
-   "temp_max": 30.5,
-   "onda_max": 1.08
+   "temp_max": 31.3,
+   "onda_max": 1.12
   },
   {
    "data": "2026-09-05",
    "obm": "DBM 5/M",
    "cidade": "Rio de Janeiro",
-   "previsto": 0.0,
+   "previsto": 0.1,
    "nivel": "VERDE",
-   "temp_max": 24.6,
-   "onda_max": 0.78
+   "temp_max": 26.0,
+   "onda_max": 0.88
   },
   {
    "data": "2026-09-06",
@@ -1174,8 +1156,8 @@
    "cidade": "Rio de Janeiro",
    "previsto": 0.1,
    "nivel": "VERDE",
-   "temp_max": 21.3,
-   "onda_max": 1.6
+   "temp_max": 20.9,
+   "onda_max": 1.76
   },
   {
    "data": "2026-09-07",
@@ -1183,8 +1165,8 @@
    "cidade": "Rio de Janeiro",
    "previsto": 0.1,
    "nivel": "VERDE",
-   "temp_max": 18.9,
-   "onda_max": 2.0
+   "temp_max": 19.3,
+   "onda_max": 1.88
   },
   {
    "data": "2026-09-08",
@@ -1192,26 +1174,26 @@
    "cidade": "Rio de Janeiro",
    "previsto": -0.0,
    "nivel": "VERDE",
-   "temp_max": 20.5,
-   "onda_max": 1.6
+   "temp_max": 23.5,
+   "onda_max": 1.32
   },
   {
-   "data": "2026-09-02",
-   "obm": "DBM 6/5",
-   "cidade": "Campos dos Goytacazes",
-   "previsto": -0.0,
-   "nivel": "VERDE",
-   "temp_max": 23.1,
-   "onda_max": 1.56
-  },
-  {
-   "data": "2026-09-03",
-   "obm": "DBM 6/5",
-   "cidade": "Campos dos Goytacazes",
+   "data": "2026-09-09",
+   "obm": "DBM 5/M",
+   "cidade": "Rio de Janeiro",
    "previsto": 0.0,
    "nivel": "VERDE",
-   "temp_max": 23.4,
-   "onda_max": 1.82
+   "temp_max": 26.1,
+   "onda_max": 1.08
+  },
+  {
+   "data": "2026-09-10",
+   "obm": "DBM 5/M",
+   "cidade": "Rio de Janeiro",
+   "previsto": -0.0,
+   "nivel": "VERDE",
+   "temp_max": 26.9,
+   "onda_max": 0.82
   },
   {
    "data": "2026-09-04",
@@ -1219,17 +1201,17 @@
    "cidade": "Campos dos Goytacazes",
    "previsto": 0.1,
    "nivel": "VERDE",
-   "temp_max": 26.2,
-   "onda_max": 1.78
+   "temp_max": 26.7,
+   "onda_max": 1.84
   },
   {
    "data": "2026-09-05",
    "obm": "DBM 6/5",
    "cidade": "Campos dos Goytacazes",
-   "previsto": 0.5,
+   "previsto": 0.3,
    "nivel": "VERDE",
-   "temp_max": 25.7,
-   "onda_max": 1.04
+   "temp_max": 26.0,
+   "onda_max": 1.14
   },
   {
    "data": "2026-09-06",
@@ -1237,8 +1219,8 @@
    "cidade": "Campos dos Goytacazes",
    "previsto": 0.4,
    "nivel": "VERDE",
-   "temp_max": 23.5,
-   "onda_max": 1.74
+   "temp_max": 22.6,
+   "onda_max": 2.0
   },
   {
    "data": "2026-09-07",
@@ -1246,17 +1228,35 @@
    "cidade": "Campos dos Goytacazes",
    "previsto": 0.1,
    "nivel": "VERDE",
-   "temp_max": 20.2,
-   "onda_max": 2.22
+   "temp_max": 19.5,
+   "onda_max": 2.02
   },
   {
    "data": "2026-09-08",
    "obm": "DBM 6/5",
    "cidade": "Campos dos Goytacazes",
+   "previsto": -0.0,
+   "nivel": "VERDE",
+   "temp_max": 21.0,
+   "onda_max": 1.72
+  },
+  {
+   "data": "2026-09-09",
+   "obm": "DBM 6/5",
+   "cidade": "Campos dos Goytacazes",
+   "previsto": -0.0,
+   "nivel": "VERDE",
+   "temp_max": 24.1,
+   "onda_max": 1.7
+  },
+  {
+   "data": "2026-09-10",
+   "obm": "DBM 6/5",
+   "cidade": "Campos dos Goytacazes",
    "previsto": 0.0,
    "nivel": "VERDE",
-   "temp_max": 20.7,
-   "onda_max": 1.94
+   "temp_max": 25.0,
+   "onda_max": 1.5
   }
  ]
 }

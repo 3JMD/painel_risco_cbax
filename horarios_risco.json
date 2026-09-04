@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-02T08:30:08",
+ "gerado_em": "2026-09-04T08:41:32",
  "base": "praias com efeito de maré comprovado (q<0.05, |rho|>=0.10)",
  "cidades": [
   {
@@ -9,28 +9,12 @@
    ],
    "janelas": [
     {
-     "data": "2026-09-02",
-     "dow": "Qua",
-     "hora_baixamar": 12,
-     "inicio": 10,
-     "fim": 13,
-     "nivel_min": -0.09
-    },
-    {
-     "data": "2026-09-03",
-     "dow": "Qui",
-     "hora_baixamar": 13,
-     "inicio": 11,
-     "fim": 14,
-     "nivel_min": -0.02
-    },
-    {
      "data": "2026-09-04",
      "dow": "Sex",
      "hora_baixamar": 14,
      "inicio": 12,
      "fim": 15,
-     "nivel_min": 0.06
+     "nivel_min": 0.04
     },
     {
      "data": "2026-09-05",
@@ -38,7 +22,7 @@
      "hora_baixamar": 17,
      "inicio": 15,
      "fim": 18,
-     "nivel_min": 0.1
+     "nivel_min": 0.12
     },
     {
      "data": "2026-09-06",
@@ -46,7 +30,7 @@
      "hora_baixamar": 18,
      "inicio": 16,
      "fim": 18,
-     "nivel_min": 0.05
+     "nivel_min": 0.09
     },
     {
      "data": "2026-09-07",
@@ -62,7 +46,23 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.24
+     "nivel_min": -0.27
+    },
+    {
+     "data": "2026-09-09",
+     "dow": "Qua",
+     "hora_baixamar": 8,
+     "inicio": 8,
+     "fim": 9,
+     "nivel_min": -0.66
+    },
+    {
+     "data": "2026-09-10",
+     "dow": "Qui",
+     "hora_baixamar": 8,
+     "inicio": 8,
+     "fim": 9,
+     "nivel_min": -0.82
     }
    ]
   },
@@ -73,28 +73,12 @@
    ],
    "janelas": [
     {
-     "data": "2026-09-02",
-     "dow": "Qua",
-     "hora_baixamar": 12,
-     "inicio": 10,
-     "fim": 13,
-     "nivel_min": -0.08
-    },
-    {
-     "data": "2026-09-03",
-     "dow": "Qui",
-     "hora_baixamar": 13,
-     "inicio": 11,
-     "fim": 14,
-     "nivel_min": -0.02
-    },
-    {
      "data": "2026-09-04",
      "dow": "Sex",
      "hora_baixamar": 14,
      "inicio": 12,
      "fim": 15,
-     "nivel_min": 0.06
+     "nivel_min": 0.04
     },
     {
      "data": "2026-09-05",
@@ -102,7 +86,7 @@
      "hora_baixamar": 17,
      "inicio": 15,
      "fim": 18,
-     "nivel_min": 0.11
+     "nivel_min": 0.13
     },
     {
      "data": "2026-09-06",
@@ -110,7 +94,7 @@
      "hora_baixamar": 18,
      "inicio": 16,
      "fim": 18,
-     "nivel_min": 0.06
+     "nivel_min": 0.1
     },
     {
      "data": "2026-09-07",
@@ -118,7 +102,7 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": 0.04
+     "nivel_min": 0.03
     },
     {
      "data": "2026-09-08",
@@ -126,7 +110,23 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.24
+     "nivel_min": -0.27
+    },
+    {
+     "data": "2026-09-09",
+     "dow": "Qua",
+     "hora_baixamar": 8,
+     "inicio": 8,
+     "fim": 9,
+     "nivel_min": -0.67
+    },
+    {
+     "data": "2026-09-10",
+     "dow": "Qui",
+     "hora_baixamar": 8,
+     "inicio": 8,
+     "fim": 9,
+     "nivel_min": -0.81
     }
    ]
   }

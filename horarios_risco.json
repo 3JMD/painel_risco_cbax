@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-04T08:41:32",
+ "gerado_em": "2026-09-05T08:21:32",
  "base": "praias com efeito de maré comprovado (q<0.05, |rho|>=0.10)",
  "cidades": [
   {
@@ -8,14 +8,6 @@
     "ITACOATIARA"
    ],
    "janelas": [
-    {
-     "data": "2026-09-04",
-     "dow": "Sex",
-     "hora_baixamar": 14,
-     "inicio": 12,
-     "fim": 15,
-     "nivel_min": 0.04
-    },
     {
      "data": "2026-09-05",
      "dow": "Sáb",
@@ -30,7 +22,7 @@
      "hora_baixamar": 18,
      "inicio": 16,
      "fim": 18,
-     "nivel_min": 0.09
+     "nivel_min": 0.08
     },
     {
      "data": "2026-09-07",
@@ -38,7 +30,7 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": 0.0
+     "nivel_min": -0.01
     },
     {
      "data": "2026-09-08",
@@ -46,7 +38,7 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.27
+     "nivel_min": -0.29
     },
     {
      "data": "2026-09-09",
@@ -54,7 +46,7 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.66
+     "nivel_min": -0.62
     },
     {
      "data": "2026-09-10",
@@ -62,7 +54,15 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.82
+     "nivel_min": -0.66
+    },
+    {
+     "data": "2026-09-11",
+     "dow": "Sex",
+     "hora_baixamar": 8,
+     "inicio": 8,
+     "fim": 9,
+     "nivel_min": -0.56
     }
    ]
   },
@@ -73,19 +73,11 @@
    ],
    "janelas": [
     {
-     "data": "2026-09-04",
-     "dow": "Sex",
-     "hora_baixamar": 14,
-     "inicio": 12,
-     "fim": 15,
-     "nivel_min": 0.04
-    },
-    {
      "data": "2026-09-05",
      "dow": "Sáb",
-     "hora_baixamar": 17,
-     "inicio": 15,
-     "fim": 18,
+     "hora_baixamar": 16,
+     "inicio": 14,
+     "fim": 17,
      "nivel_min": 0.13
     },
     {
@@ -102,7 +94,7 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": 0.03
+     "nivel_min": 0.02
     },
     {
      "data": "2026-09-08",
@@ -110,7 +102,7 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.27
+     "nivel_min": -0.29
     },
     {
      "data": "2026-09-09",
@@ -118,7 +110,7 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.67
+     "nivel_min": -0.62
     },
     {
      "data": "2026-09-10",
@@ -126,7 +118,15 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.81
+     "nivel_min": -0.66
+    },
+    {
+     "data": "2026-09-11",
+     "dow": "Sex",
+     "hora_baixamar": 8,
+     "inicio": 8,
+     "fim": 9,
+     "nivel_min": -0.55
     }
    ]
   }

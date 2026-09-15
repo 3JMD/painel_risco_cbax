@@ -84,9 +84,9 @@ estima a chance de o dia ser de reforço (acima do P80 da estação), com cortes
 calibrados para as faixas dispararem na frequência de projeto — Baixo 50%,
 Médio 30%, Alto 15%, Crítico 5% dos dias. O <b>número</b> de salvamentos vem de
 uma regressão separada. Modelo: Gradient Boosting, histórico 2016-2026,
-validação rolling-origin. Em teste histórico o sistema sinaliza como
-Alto/Crítico <b>62% dos dias que realmente foram</b> (antes: 48%); de cada 10
-alertas, ~6 se confirmam. Erro típico do número: ±25 salvamentos/dia (ver modelos/metricas.json). Apoio à decisão de efetivo — não
-substitui a avaliação operacional.</p>
+validação rolling-origin. Nessa validação o sistema sinalizou como Alto/Crítico
+<b>62% dos dias que realmente foram</b> (antes: 48%) — número de laboratório,
+medido em janelas do próprio histórico. Na operação, sobre as faixas já emitidas em 70 dias, o alerta Alto/Crítico pega <b>39% dos dias de reforço</b> e 64% dos alertas se confirmam. Erro típico do número: ±25 salvamentos/dia (ver modelos/metricas.json). Apoio à
+decisão de efetivo — não substitui a avaliação operacional.</p>
 </body>
 </html>

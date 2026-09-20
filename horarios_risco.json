@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-19T08:51:57",
+ "gerado_em": "2026-09-20T09:16:13",
  "base": "praias com efeito de maré comprovado (q<0.05, |rho|>=0.10)",
  "cidades": [
   {
@@ -9,28 +9,20 @@
    ],
    "janelas": [
     {
-     "data": "2026-09-19",
-     "dow": "Sáb",
-     "hora_baixamar": 17,
-     "inicio": 15,
-     "fim": 18,
-     "nivel_min": -0.09
-    },
-    {
      "data": "2026-09-20",
      "dow": "Dom",
-     "hora_baixamar": 17,
-     "inicio": 15,
-     "fim": 18,
+     "hora_baixamar": 8,
+     "inicio": 8,
+     "fim": 9,
      "nivel_min": -0.19
     },
     {
      "data": "2026-09-21",
      "dow": "Seg",
-     "hora_baixamar": 18,
-     "inicio": 16,
-     "fim": 18,
-     "nivel_min": -0.18
+     "hora_baixamar": 8,
+     "inicio": 8,
+     "fim": 9,
+     "nivel_min": -0.2
     },
     {
      "data": "2026-09-22",
@@ -38,7 +30,7 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.18
+     "nivel_min": -0.21
     },
     {
      "data": "2026-09-23",
@@ -46,7 +38,7 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.26
+     "nivel_min": -0.25
     },
     {
      "data": "2026-09-24",
@@ -54,7 +46,7 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.37
+     "nivel_min": -0.32
     },
     {
      "data": "2026-09-25",
@@ -62,7 +54,15 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.44
+     "nivel_min": -0.47
+    },
+    {
+     "data": "2026-09-26",
+     "dow": "Sáb",
+     "hora_baixamar": 8,
+     "inicio": 8,
+     "fim": 9,
+     "nivel_min": -0.66
     }
    ]
   },
@@ -73,28 +73,20 @@
    ],
    "janelas": [
     {
-     "data": "2026-09-19",
-     "dow": "Sáb",
-     "hora_baixamar": 17,
-     "inicio": 15,
-     "fim": 18,
-     "nivel_min": -0.1
-    },
-    {
      "data": "2026-09-20",
      "dow": "Dom",
-     "hora_baixamar": 17,
-     "inicio": 15,
-     "fim": 18,
+     "hora_baixamar": 8,
+     "inicio": 8,
+     "fim": 9,
      "nivel_min": -0.19
     },
     {
      "data": "2026-09-21",
      "dow": "Seg",
-     "hora_baixamar": 18,
-     "inicio": 16,
-     "fim": 18,
-     "nivel_min": -0.18
+     "hora_baixamar": 8,
+     "inicio": 8,
+     "fim": 9,
+     "nivel_min": -0.2
     },
     {
      "data": "2026-09-22",
@@ -102,7 +94,7 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.17
+     "nivel_min": -0.2
     },
     {
      "data": "2026-09-23",
@@ -110,7 +102,7 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.24
+     "nivel_min": -0.22
     },
     {
      "data": "2026-09-24",
@@ -118,7 +110,7 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.36
+     "nivel_min": -0.3
     },
     {
      "data": "2026-09-25",
@@ -126,7 +118,15 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.45
+     "nivel_min": -0.48
+    },
+    {
+     "data": "2026-09-26",
+     "dow": "Sáb",
+     "hora_baixamar": 8,
+     "inicio": 8,
+     "fim": 9,
+     "nivel_min": -0.67
     }
    ]
   }

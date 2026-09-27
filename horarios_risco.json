@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-26T09:17:33",
+ "gerado_em": "2026-09-27T09:59:00",
  "base": "praias com efeito de maré comprovado (q<0.05, |rho|>=0.10)",
  "cidades": [
   {
@@ -9,84 +9,12 @@
    ],
    "janelas": [
     {
-     "data": "2026-09-26",
-     "dow": "Sáb",
-     "hora_baixamar": 8,
-     "inicio": 8,
-     "fim": 9,
-     "nivel_min": -0.67
-    },
-    {
      "data": "2026-09-27",
      "dow": "Dom",
      "hora_baixamar": 9,
      "inicio": 8,
      "fim": 10,
-     "nivel_min": -0.65
-    },
-    {
-     "data": "2026-09-28",
-     "dow": "Seg",
-     "hora_baixamar": 9,
-     "inicio": 8,
-     "fim": 10,
-     "nivel_min": -0.47
-    },
-    {
-     "data": "2026-09-29",
-     "dow": "Ter",
-     "hora_baixamar": 10,
-     "inicio": 8,
-     "fim": 11,
-     "nivel_min": -0.38
-    },
-    {
-     "data": "2026-09-30",
-     "dow": "Qua",
-     "hora_baixamar": 11,
-     "inicio": 9,
-     "fim": 12,
-     "nivel_min": -0.22
-    },
-    {
-     "data": "2026-10-01",
-     "dow": "Qui",
-     "hora_baixamar": 11,
-     "inicio": 9,
-     "fim": 12,
-     "nivel_min": 0.0
-    },
-    {
-     "data": "2026-10-02",
-     "dow": "Sex",
-     "hora_baixamar": 13,
-     "inicio": 11,
-     "fim": 14,
-     "nivel_min": 0.22
-    }
-   ]
-  },
-  {
-   "cidade": "Rio de Janeiro",
-   "praias": [
-    "PRAIA DO LEBLON"
-   ],
-   "janelas": [
-    {
-     "data": "2026-09-26",
-     "dow": "Sáb",
-     "hora_baixamar": 8,
-     "inicio": 8,
-     "fim": 9,
-     "nivel_min": -0.67
-    },
-    {
-     "data": "2026-09-27",
-     "dow": "Dom",
-     "hora_baixamar": 9,
-     "inicio": 8,
-     "fim": 10,
-     "nivel_min": -0.65
+     "nivel_min": -0.64
     },
     {
      "data": "2026-09-28",
@@ -102,15 +30,15 @@
      "hora_baixamar": 10,
      "inicio": 8,
      "fim": 11,
-     "nivel_min": -0.38
+     "nivel_min": -0.4
     },
     {
      "data": "2026-09-30",
      "dow": "Qua",
-     "hora_baixamar": 11,
-     "inicio": 9,
-     "fim": 12,
-     "nivel_min": -0.22
+     "hora_baixamar": 10,
+     "inicio": 8,
+     "fim": 11,
+     "nivel_min": -0.23
     },
     {
      "data": "2026-10-01",
@@ -118,7 +46,7 @@
      "hora_baixamar": 11,
      "inicio": 9,
      "fim": 12,
-     "nivel_min": 0.02
+     "nivel_min": -0.05
     },
     {
      "data": "2026-10-02",
@@ -126,7 +54,79 @@
      "hora_baixamar": 13,
      "inicio": 11,
      "fim": 14,
-     "nivel_min": 0.24
+     "nivel_min": 0.21
+    },
+    {
+     "data": "2026-10-03",
+     "dow": "Sáb",
+     "hora_baixamar": 18,
+     "inicio": 16,
+     "fim": 18,
+     "nivel_min": 0.16
+    }
+   ]
+  },
+  {
+   "cidade": "Rio de Janeiro",
+   "praias": [
+    "PRAIA DO LEBLON"
+   ],
+   "janelas": [
+    {
+     "data": "2026-09-27",
+     "dow": "Dom",
+     "hora_baixamar": 9,
+     "inicio": 8,
+     "fim": 10,
+     "nivel_min": -0.64
+    },
+    {
+     "data": "2026-09-28",
+     "dow": "Seg",
+     "hora_baixamar": 9,
+     "inicio": 8,
+     "fim": 10,
+     "nivel_min": -0.45
+    },
+    {
+     "data": "2026-09-29",
+     "dow": "Ter",
+     "hora_baixamar": 10,
+     "inicio": 8,
+     "fim": 11,
+     "nivel_min": -0.4
+    },
+    {
+     "data": "2026-09-30",
+     "dow": "Qua",
+     "hora_baixamar": 11,
+     "inicio": 9,
+     "fim": 12,
+     "nivel_min": -0.23
+    },
+    {
+     "data": "2026-10-01",
+     "dow": "Qui",
+     "hora_baixamar": 11,
+     "inicio": 9,
+     "fim": 12,
+     "nivel_min": -0.04
+    },
+    {
+     "data": "2026-10-02",
+     "dow": "Sex",
+     "hora_baixamar": 13,
+     "inicio": 11,
+     "fim": 14,
+     "nivel_min": 0.23
+    },
+    {
+     "data": "2026-10-03",
+     "dow": "Sáb",
+     "hora_baixamar": 18,
+     "inicio": 16,
+     "fim": 18,
+     "nivel_min": 0.15
     }
    ]
   }

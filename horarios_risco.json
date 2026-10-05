@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-03T09:56:38",
+ "gerado_em": "2026-10-05T11:25:13",
  "base": "praias com efeito de maré comprovado (q<0.05, |rho|>=0.10)",
  "cidades": [
   {
@@ -8,22 +8,6 @@
     "ITACOATIARA"
    ],
    "janelas": [
-    {
-     "data": "2026-10-03",
-     "dow": "Sáb",
-     "hora_baixamar": 18,
-     "inicio": 16,
-     "fim": 18,
-     "nivel_min": 0.14
-    },
-    {
-     "data": "2026-10-04",
-     "dow": "Dom",
-     "hora_baixamar": 17,
-     "inicio": 15,
-     "fim": 18,
-     "nivel_min": 0.01
-    },
     {
      "data": "2026-10-05",
      "dow": "Seg",
@@ -38,7 +22,7 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.1
+     "nivel_min": -0.12
     },
     {
      "data": "2026-10-07",
@@ -54,11 +38,27 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.45
+     "nivel_min": -0.41
     },
     {
      "data": "2026-10-09",
      "dow": "Sex",
+     "hora_baixamar": 8,
+     "inicio": 8,
+     "fim": 9,
+     "nivel_min": -0.6
+    },
+    {
+     "data": "2026-10-10",
+     "dow": "Sáb",
+     "hora_baixamar": 8,
+     "inicio": 8,
+     "fim": 9,
+     "nivel_min": -0.68
+    },
+    {
+     "data": "2026-10-11",
+     "dow": "Dom",
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
@@ -73,28 +73,12 @@
    ],
    "janelas": [
     {
-     "data": "2026-10-03",
-     "dow": "Sáb",
-     "hora_baixamar": 18,
-     "inicio": 16,
-     "fim": 18,
-     "nivel_min": 0.14
-    },
-    {
-     "data": "2026-10-04",
-     "dow": "Dom",
-     "hora_baixamar": 17,
-     "inicio": 15,
-     "fim": 18,
-     "nivel_min": 0.0
-    },
-    {
      "data": "2026-10-05",
      "dow": "Seg",
-     "hora_baixamar": 17,
-     "inicio": 15,
-     "fim": 18,
-     "nivel_min": -0.11
+     "hora_baixamar": 8,
+     "inicio": 8,
+     "fim": 9,
+     "nivel_min": -0.1
     },
     {
      "data": "2026-10-06",
@@ -102,7 +86,7 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.08
+     "nivel_min": -0.11
     },
     {
      "data": "2026-10-07",
@@ -118,7 +102,7 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.45
+     "nivel_min": -0.4
     },
     {
      "data": "2026-10-09",
@@ -126,7 +110,23 @@
      "hora_baixamar": 8,
      "inicio": 8,
      "fim": 9,
-     "nivel_min": -0.6
+     "nivel_min": -0.61
+    },
+    {
+     "data": "2026-10-10",
+     "dow": "Sáb",
+     "hora_baixamar": 8,
+     "inicio": 8,
+     "fim": 9,
+     "nivel_min": -0.69
+    },
+    {
+     "data": "2026-10-11",
+     "dow": "Dom",
+     "hora_baixamar": 8,
+     "inicio": 8,
+     "fim": 9,
+     "nivel_min": -0.58
     }
    ]
   }

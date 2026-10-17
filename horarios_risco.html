@@ -1,4 +1,5 @@
 <!DOCTYPE html><html lang="pt-BR"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="refresh" content="3600">
 <title>Horários de Atenção — Maré/Corrente de Retorno</title><style>
 body{font-family:system-ui;background:#0f1722;color:#e8eef4;max-width:1000px;
@@ -20,18 +21,34 @@ border:1px solid #2a3947;border-radius:6px}
 .insuf{background:#1b2430;border:1px dashed #4a5b6b;color:#c7d3de}
 .insuf b{color:#e8eef4}
 
+
+*{box-sizing:border-box}
+.tw{overflow-x:auto;max-width:100%}
+.sub,.box,p,h1,h2,h3{overflow-wrap:anywhere}
+@media (max-width:700px){body{padding:14px 10px!important}
+h1{font-size:1.1rem!important}.nav a{font-size:.74rem}}
+.gerado{display:inline-block;margin-left:6px;padding:1px 8px;border-radius:10px;
+font-size:.75rem;background:#223140;color:#c7d3de}
+.gerado.velho{background:#e9c46a;color:#1a1a1a;font-weight:700}
+
 </style></head><body>
 <nav class="nav"><a href="painel_risco.html">🚨 Painel de Risco</a><a href="horarios_risco.html" class="on">🕐 Horários de Maré</a><a href="relatorio_correntes.html">🌊 Correntes de Retorno</a><a href="relatorio_analises.html">📊 Análises Avançadas</a><a href="relatorio_praias.html">🏖 Análise por Praia</a></nav>
 <h1>🕐 Horários de Atenção — Corrente de Retorno por Maré</h1>
-<p class="sub">Gerado em 2026-10-16T08:58:25 · critério: praias com efeito de maré comprovado (q<0.05, |rho|>=0.10).
-Janela = da vazante até a baixa-mar, quando a corrente de retorno tende a ser
-mais forte. Orientação física de apoio — não substitui a leitura do
-guarda-vida na praia.</p>
+<p class="sub">Gerado em 2026-10-17T02:50:39 · base: praias com efeito de maré comprovado (q&lt;0.05, |rho|&gt;=0.10).
+<b>Critério da atenção redobrada:</b> existe baixa-mar REAL (mínimo local da
+previsão de 24 h) entre 10h e 17h <b>e</b> o nível
+mínimo entre 11h e 16h está no terço inferior (≤ P33)
+do histórico da cidade — é o que a evidência estatística mediu (nível mais baixo
+no pico de banho → mais resgate). Nos demais dias aparece "sem janela
+especial". Janela = da vazante até logo após a baixa-mar. Orientação de apoio —
+não substitui a leitura do guarda-vida na praia.</p>
 <div class="box"><h3>Niterói</h3>
-<p class="sub">ITACOATIARA</p>
-<table><tr><th>Dia</th><th>Atenção redobrada</th><th>Maré</th></tr>
-<tr><td>Sex 16/10</td><td><b>8h–11h</b></td><td>baixa-mar 10h (0.04 m)</td></tr><tr><td>Sáb 17/10</td><td><b>9h–12h</b></td><td>baixa-mar 11h (0.19 m)</td></tr><tr><td>Dom 18/10</td><td><b>12h–15h</b></td><td>baixa-mar 14h (0.26 m)</td></tr><tr><td>Seg 19/10</td><td><b>14h–17h</b></td><td>baixa-mar 16h (0.18 m)</td></tr><tr><td>Ter 20/10</td><td><b>15h–18h</b></td><td>baixa-mar 17h (-0.04 m)</td></tr><tr><td>Qua 21/10</td><td><b>16h–18h</b></td><td>baixa-mar 18h (-0.27 m)</td></tr><tr><td>Qui 22/10</td><td><b>16h–18h</b></td><td>baixa-mar 18h (-0.41 m)</td></tr></table></div><div class="box"><h3>Rio de Janeiro</h3>
-<p class="sub">PRAIA DO LEBLON</p>
-<table><tr><th>Dia</th><th>Atenção redobrada</th><th>Maré</th></tr>
-<tr><td>Sex 16/10</td><td><b>8h–11h</b></td><td>baixa-mar 10h (0.04 m)</td></tr><tr><td>Sáb 17/10</td><td><b>8h–11h</b></td><td>baixa-mar 10h (0.2 m)</td></tr><tr><td>Dom 18/10</td><td><b>12h–15h</b></td><td>baixa-mar 14h (0.27 m)</td></tr><tr><td>Seg 19/10</td><td><b>14h–17h</b></td><td>baixa-mar 16h (0.18 m)</td></tr><tr><td>Ter 20/10</td><td><b>15h–18h</b></td><td>baixa-mar 17h (-0.04 m)</td></tr><tr><td>Qua 21/10</td><td><b>16h–18h</b></td><td>baixa-mar 18h (-0.28 m)</td></tr><tr><td>Qui 22/10</td><td><b>16h–18h</b></td><td>baixa-mar 18h (-0.41 m)</td></tr></table></div>
+<p class="sub">ITACOATIARA<br>Limiar (P33 do histórico): nível ≤ -0,22 m.</p>
+<div class="tw"><table><tr><th>Dia</th><th>Atenção redobrada</th><th>Baixa-mar real</th>
+<th>Nível mín. 11–16h</th></tr>
+<tr><td>Sex 16/10</td><td><span class='sub'>sem janela especial</span></td><td>11h (0,02 m)</td><td>0,02 m</td></tr><tr><td>Sáb 17/10</td><td><span class='sub'>sem janela especial</span></td><td>12h (0,15 m)</td><td>0,15 m</td></tr><tr><td>Dom 18/10</td><td><span class='sub'>sem janela especial</span></td><td>15h (0,22 m)</td><td>0,22 m</td></tr><tr><td>Seg 19/10</td><td><span class='sub'>sem janela especial</span></td><td>17h (0,27 m)</td><td>0,27 m</td></tr><tr><td>Ter 20/10</td><td><span class='sub'>sem janela especial</span></td><td>17h (0,03 m)</td><td>0,07 m</td></tr><tr><td>Qua 21/10</td><td><span class='sub'>sem janela especial</span></td><td>18h (-0,18 m)</td><td>-0,06 m</td></tr><tr><td>Qui 22/10</td><td><span class='sub'>sem janela especial</span></td><td>18h (-0,29 m)</td><td>-0,07 m</td></tr></table></div></div><div class="box"><h3>Rio de Janeiro</h3>
+<p class="sub">PRAIA DO LEBLON, PEDRA DO PONTAL<br>Limiar (P33 do histórico): nível ≤ -0,22 m.</p>
+<div class="tw"><table><tr><th>Dia</th><th>Atenção redobrada</th><th>Baixa-mar real</th>
+<th>Nível mín. 11–16h</th></tr>
+<tr><td>Sex 16/10</td><td><span class='sub'>sem janela especial</span></td><td>12h (0,02 m)</td><td>0,02 m</td></tr><tr><td>Sáb 17/10</td><td><span class='sub'>sem janela especial</span></td><td>11h (0,16 m)</td><td>0,16 m</td></tr><tr><td>Dom 18/10</td><td><span class='sub'>sem janela especial</span></td><td>15h (0,24 m)</td><td>0,24 m</td></tr><tr><td>Seg 19/10</td><td><span class='sub'>sem janela especial</span></td><td>17h (0,28 m)</td><td>0,28 m</td></tr><tr><td>Ter 20/10</td><td><span class='sub'>sem janela especial</span></td><td>17h (0,02 m)</td><td>0,06 m</td></tr><tr><td>Qua 21/10</td><td><span class='sub'>sem janela especial</span></td><td>18h (-0,2 m)</td><td>-0,07 m</td></tr><tr><td>Qui 22/10</td><td><span class='sub'>sem janela especial</span></td><td>18h (-0,29 m)</td><td>-0,07 m</td></tr></table></div></div>
 </body></html>

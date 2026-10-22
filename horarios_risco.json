@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-21T09:22:10",
+ "gerado_em": "2026-10-22T09:28:32",
  "base": "praias com efeito de maré comprovado (q<0.05, |rho|>=0.10)",
  "cidades": [
   {
@@ -9,21 +9,6 @@
    ],
    "limiar_p33": -0.22,
    "janelas": [
-    {
-     "data": "2026-10-21",
-     "dow": "Qua",
-     "hora_baixamar": 18,
-     "inicio": null,
-     "fim": null,
-     "nivel_min": -0.15,
-     "baixamar_real": {
-      "hora": 18,
-      "nivel": -0.15
-     },
-     "no_pico": false,
-     "nivel_pico": -0.03,
-     "atencao": false
-    },
     {
      "data": "2026-10-22",
      "dow": "Qui",
@@ -113,6 +98,21 @@
      "no_pico": false,
      "nivel_pico": 0.08,
      "atencao": false
+    },
+    {
+     "data": "2026-10-28",
+     "dow": "Qua",
+     "hora_baixamar": 10,
+     "inicio": null,
+     "fim": null,
+     "nivel_min": -0.24,
+     "baixamar_real": {
+      "hora": 10,
+      "nivel": -0.24
+     },
+     "no_pico": true,
+     "nivel_pico": -0.15,
+     "atencao": false
     }
    ]
   },
@@ -124,21 +124,6 @@
    ],
    "limiar_p33": -0.22,
    "janelas": [
-    {
-     "data": "2026-10-21",
-     "dow": "Qua",
-     "hora_baixamar": 18,
-     "inicio": null,
-     "fim": null,
-     "nivel_min": -0.17,
-     "baixamar_real": {
-      "hora": 18,
-      "nivel": -0.17
-     },
-     "no_pico": false,
-     "nivel_pico": -0.04,
-     "atencao": false
-    },
     {
      "data": "2026-10-22",
      "dow": "Qui",
@@ -227,6 +212,21 @@
      },
      "no_pico": false,
      "nivel_pico": 0.08,
+     "atencao": false
+    },
+    {
+     "data": "2026-10-28",
+     "dow": "Qua",
+     "hora_baixamar": 10,
+     "inicio": null,
+     "fim": null,
+     "nivel_min": -0.25,
+     "baixamar_real": {
+      "hora": 10,
+      "nivel": -0.25
+     },
+     "no_pico": true,
+     "nivel_pico": -0.17,
      "atencao": false
     }
    ]

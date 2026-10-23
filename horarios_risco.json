@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-22T09:28:32",
+ "gerado_em": "2026-10-23T09:27:09",
  "base": "praias com efeito de maré comprovado (q<0.05, |rho|>=0.10)",
  "cidades": [
   {
@@ -9,21 +9,6 @@
    ],
    "limiar_p33": -0.22,
    "janelas": [
-    {
-     "data": "2026-10-22",
-     "dow": "Qui",
-     "hora_baixamar": 18,
-     "inicio": null,
-     "fim": null,
-     "nivel_min": -0.37,
-     "baixamar_real": {
-      "hora": 18,
-      "nivel": -0.37
-     },
-     "no_pico": false,
-     "nivel_pico": -0.15,
-     "atencao": false
-    },
     {
      "data": "2026-10-23",
      "dow": "Sex",
@@ -124,21 +109,6 @@
    ],
    "limiar_p33": -0.22,
    "janelas": [
-    {
-     "data": "2026-10-22",
-     "dow": "Qui",
-     "hora_baixamar": 18,
-     "inicio": null,
-     "fim": null,
-     "nivel_min": -0.38,
-     "baixamar_real": {
-      "hora": 18,
-      "nivel": -0.38
-     },
-     "no_pico": false,
-     "nivel_pico": -0.15,
-     "atencao": false
-    },
     {
      "data": "2026-10-23",
      "dow": "Sex",

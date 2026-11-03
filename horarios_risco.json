@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-02T12:11:34",
+ "gerado_em": "2026-11-03T11:50:09",
  "base": "praias com efeito de maré comprovado (q<0.05, |rho|>=0.10)",
  "cidades": [
   {
@@ -9,21 +9,6 @@
    ],
    "limiar_p33": -0.22,
    "janelas": [
-    {
-     "data": "2026-11-02",
-     "dow": "Seg",
-     "hora_baixamar": 16,
-     "inicio": null,
-     "fim": null,
-     "nivel_min": -0.01,
-     "baixamar_real": {
-      "hora": 16,
-      "nivel": -0.01
-     },
-     "no_pico": true,
-     "nivel_pico": -0.01,
-     "atencao": false
-    },
     {
      "data": "2026-11-03",
      "dow": "Ter",
@@ -113,6 +98,21 @@
      "no_pico": false,
      "nivel_pico": 0.28,
      "atencao": false
+    },
+    {
+     "data": "2026-11-09",
+     "dow": "Seg",
+     "hora_baixamar": 8,
+     "inicio": null,
+     "fim": null,
+     "nivel_min": -0.16,
+     "baixamar_real": {
+      "hora": 8,
+      "nivel": -0.16
+     },
+     "no_pico": false,
+     "nivel_pico": 0.27,
+     "atencao": false
     }
    ]
   },
@@ -124,21 +124,6 @@
    ],
    "limiar_p33": -0.22,
    "janelas": [
-    {
-     "data": "2026-11-02",
-     "dow": "Seg",
-     "hora_baixamar": 16,
-     "inicio": null,
-     "fim": null,
-     "nivel_min": -0.02,
-     "baixamar_real": {
-      "hora": 16,
-      "nivel": -0.02
-     },
-     "no_pico": true,
-     "nivel_pico": -0.02,
-     "atencao": false
-    },
     {
      "data": "2026-11-03",
      "dow": "Ter",
@@ -227,6 +212,21 @@
      },
      "no_pico": false,
      "nivel_pico": 0.29,
+     "atencao": false
+    },
+    {
+     "data": "2026-11-09",
+     "dow": "Seg",
+     "hora_baixamar": 8,
+     "inicio": null,
+     "fim": null,
+     "nivel_min": -0.15,
+     "baixamar_real": {
+      "hora": 8,
+      "nivel": -0.15
+     },
+     "no_pico": false,
+     "nivel_pico": 0.27,
      "atencao": false
     }
    ]

@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-10T12:14:46",
+ "gerado_em": "2026-11-11T11:57:33",
  "base": "praias com efeito de maré comprovado (q<0.05, |rho|>=0.10)",
  "cidades": [
   {
@@ -9,21 +9,6 @@
    ],
    "limiar_p33": -0.22,
    "janelas": [
-    {
-     "data": "2026-11-10",
-     "dow": "Ter",
-     "hora_baixamar": 9,
-     "inicio": null,
-     "fim": null,
-     "nivel_min": -0.33,
-     "baixamar_real": {
-      "hora": 9,
-      "nivel": -0.33
-     },
-     "no_pico": false,
-     "nivel_pico": -0.06,
-     "atencao": false
-    },
     {
      "data": "2026-11-11",
      "dow": "Qua",
@@ -113,6 +98,21 @@
      "no_pico": true,
      "nivel_pico": 0.05,
      "atencao": false
+    },
+    {
+     "data": "2026-11-17",
+     "dow": "Ter",
+     "hora_baixamar": 15,
+     "inicio": null,
+     "fim": null,
+     "nivel_min": 0.2,
+     "baixamar_real": {
+      "hora": 15,
+      "nivel": 0.2
+     },
+     "no_pico": true,
+     "nivel_pico": 0.2,
+     "atencao": false
     }
    ]
   },
@@ -121,23 +121,8 @@
    "praias": [
     "PEDRA DO PONTAL"
    ],
-   "limiar_p33": -0.211,
+   "limiar_p33": -0.218,
    "janelas": [
-    {
-     "data": "2026-11-10",
-     "dow": "Ter",
-     "hora_baixamar": 9,
-     "inicio": null,
-     "fim": null,
-     "nivel_min": -0.33,
-     "baixamar_real": {
-      "hora": 9,
-      "nivel": -0.33
-     },
-     "no_pico": false,
-     "nivel_pico": -0.06,
-     "atencao": false
-    },
     {
      "data": "2026-11-11",
      "dow": "Qua",
@@ -226,6 +211,21 @@
      },
      "no_pico": true,
      "nivel_pico": 0.06,
+     "atencao": false
+    },
+    {
+     "data": "2026-11-17",
+     "dow": "Ter",
+     "hora_baixamar": 15,
+     "inicio": null,
+     "fim": null,
+     "nivel_min": 0.22,
+     "baixamar_real": {
+      "hora": 15,
+      "nivel": 0.22
+     },
+     "no_pico": true,
+     "nivel_pico": 0.22,
      "atencao": false
     }
    ]

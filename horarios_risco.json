@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-12T12:25:38",
+ "gerado_em": "2026-11-13T12:03:23",
  "base": "praias com efeito de maré comprovado (q<0.05, |rho|>=0.10)",
  "cidades": [
   {
@@ -9,21 +9,6 @@
    ],
    "limiar_p33": -0.22,
    "janelas": [
-    {
-     "data": "2026-11-12",
-     "dow": "Qui",
-     "hora_baixamar": 10,
-     "inicio": 8,
-     "fim": 11,
-     "nivel_min": -0.32,
-     "baixamar_real": {
-      "hora": 10,
-      "nivel": -0.32
-     },
-     "no_pico": true,
-     "nivel_pico": -0.25,
-     "atencao": true
-    },
     {
      "data": "2026-11-13",
      "dow": "Sex",
@@ -113,6 +98,21 @@
      "no_pico": true,
      "nivel_pico": -0.06,
      "atencao": false
+    },
+    {
+     "data": "2026-11-19",
+     "dow": "Qui",
+     "hora_baixamar": 17,
+     "inicio": null,
+     "fim": null,
+     "nivel_min": -0.11,
+     "baixamar_real": {
+      "hora": 17,
+      "nivel": -0.11
+     },
+     "no_pico": true,
+     "nivel_pico": -0.08,
+     "atencao": false
     }
    ]
   },
@@ -123,21 +123,6 @@
    ],
    "limiar_p33": -0.22,
    "janelas": [
-    {
-     "data": "2026-11-12",
-     "dow": "Qui",
-     "hora_baixamar": 10,
-     "inicio": 8,
-     "fim": 11,
-     "nivel_min": -0.31,
-     "baixamar_real": {
-      "hora": 10,
-      "nivel": -0.31
-     },
-     "no_pico": true,
-     "nivel_pico": -0.25,
-     "atencao": true
-    },
     {
      "data": "2026-11-13",
      "dow": "Sex",
@@ -226,6 +211,21 @@
      },
      "no_pico": true,
      "nivel_pico": -0.06,
+     "atencao": false
+    },
+    {
+     "data": "2026-11-19",
+     "dow": "Qui",
+     "hora_baixamar": 17,
+     "inicio": null,
+     "fim": null,
+     "nivel_min": -0.09,
+     "baixamar_real": {
+      "hora": 17,
+      "nivel": -0.09
+     },
+     "no_pico": true,
+     "nivel_pico": -0.07,
      "atencao": false
     }
    ]

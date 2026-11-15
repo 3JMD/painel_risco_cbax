@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-14T11:25:01",
+ "gerado_em": "2026-11-15T11:53:44",
  "base": "praias com efeito de maré comprovado (q<0.05, |rho|>=0.10)",
  "cidades": [
   {
@@ -10,33 +10,132 @@
    "limiar_p33": -0.22,
    "janelas": [
     {
-     "data": "2026-11-14",
-     "dow": "Sáb",
-     "hora_baixamar": 11,
+     "data": "2026-11-15",
+     "dow": "Dom",
+     "hora_baixamar": 12,
      "inicio": null,
      "fim": null,
-     "nivel_min": 0.02,
+     "nivel_min": 0.07,
      "baixamar_real": {
-      "hora": 11,
-      "nivel": 0.02
+      "hora": 12,
+      "nivel": 0.07
      },
      "no_pico": true,
-     "nivel_pico": 0.02,
+     "nivel_pico": 0.07,
      "atencao": false
     },
+    {
+     "data": "2026-11-16",
+     "dow": "Seg",
+     "hora_baixamar": 13,
+     "inicio": null,
+     "fim": null,
+     "nivel_min": 0.03,
+     "baixamar_real": {
+      "hora": 13,
+      "nivel": 0.03
+     },
+     "no_pico": true,
+     "nivel_pico": 0.03,
+     "atencao": false
+    },
+    {
+     "data": "2026-11-17",
+     "dow": "Ter",
+     "hora_baixamar": 15,
+     "inicio": null,
+     "fim": null,
+     "nivel_min": 0.0,
+     "baixamar_real": {
+      "hora": 15,
+      "nivel": 0.0
+     },
+     "no_pico": true,
+     "nivel_pico": 0.0,
+     "atencao": false
+    },
+    {
+     "data": "2026-11-18",
+     "dow": "Qua",
+     "hora_baixamar": 16,
+     "inicio": null,
+     "fim": null,
+     "nivel_min": -0.08,
+     "baixamar_real": {
+      "hora": 16,
+      "nivel": -0.08
+     },
+     "no_pico": true,
+     "nivel_pico": -0.08,
+     "atencao": false
+    },
+    {
+     "data": "2026-11-19",
+     "dow": "Qui",
+     "hora_baixamar": 17,
+     "inicio": null,
+     "fim": null,
+     "nivel_min": -0.16,
+     "baixamar_real": {
+      "hora": 17,
+      "nivel": -0.16
+     },
+     "no_pico": true,
+     "nivel_pico": -0.13,
+     "atencao": false
+    },
+    {
+     "data": "2026-11-20",
+     "dow": "Sex",
+     "hora_baixamar": 18,
+     "inicio": null,
+     "fim": null,
+     "nivel_min": -0.19,
+     "baixamar_real": {
+      "hora": 18,
+      "nivel": -0.19
+     },
+     "no_pico": false,
+     "nivel_pico": -0.09,
+     "atencao": false
+    },
+    {
+     "data": "2026-11-21",
+     "dow": "Sáb",
+     "hora_baixamar": 18,
+     "inicio": null,
+     "fim": null,
+     "nivel_min": -0.29,
+     "baixamar_real": {
+      "hora": 18,
+      "nivel": -0.29
+     },
+     "no_pico": false,
+     "nivel_pico": -0.05,
+     "atencao": false
+    }
+   ]
+  },
+  {
+   "cidade": "Rio de Janeiro",
+   "praias": [
+    "PEDRA DO PONTAL"
+   ],
+   "limiar_p33": -0.214,
+   "janelas": [
     {
      "data": "2026-11-15",
      "dow": "Dom",
      "hora_baixamar": 12,
      "inicio": null,
      "fim": null,
-     "nivel_min": 0.08,
+     "nivel_min": 0.07,
      "baixamar_real": {
       "hora": 12,
-      "nivel": 0.08
+      "nivel": 0.07
      },
      "no_pico": true,
-     "nivel_pico": 0.08,
+     "nivel_pico": 0.07,
      "atencao": false
     },
     {
@@ -75,13 +174,13 @@
      "hora_baixamar": 16,
      "inicio": null,
      "fim": null,
-     "nivel_min": -0.11,
+     "nivel_min": -0.08,
      "baixamar_real": {
       "hora": 16,
-      "nivel": -0.11
+      "nivel": -0.08
      },
      "no_pico": true,
-     "nivel_pico": -0.11,
+     "nivel_pico": -0.08,
      "atencao": false
     },
     {
@@ -90,13 +189,13 @@
      "hora_baixamar": 17,
      "inicio": null,
      "fim": null,
-     "nivel_min": -0.14,
+     "nivel_min": -0.16,
      "baixamar_real": {
       "hora": 17,
-      "nivel": -0.14
+      "nivel": -0.16
      },
      "no_pico": true,
-     "nivel_pico": -0.11,
+     "nivel_pico": -0.13,
      "atencao": false
     },
     {
@@ -105,127 +204,28 @@
      "hora_baixamar": 18,
      "inicio": null,
      "fim": null,
-     "nivel_min": -0.12,
+     "nivel_min": -0.18,
      "baixamar_real": {
       "hora": 18,
-      "nivel": -0.12
+      "nivel": -0.18
      },
      "no_pico": false,
-     "nivel_pico": -0.03,
+     "nivel_pico": -0.08,
      "atencao": false
-    }
-   ]
-  },
-  {
-   "cidade": "Rio de Janeiro",
-   "praias": [
-    "PEDRA DO PONTAL"
-   ],
-   "limiar_p33": -0.218,
-   "janelas": [
+    },
     {
-     "data": "2026-11-14",
+     "data": "2026-11-21",
      "dow": "Sáb",
-     "hora_baixamar": 11,
-     "inicio": null,
-     "fim": null,
-     "nivel_min": 0.04,
-     "baixamar_real": {
-      "hora": 11,
-      "nivel": 0.04
-     },
-     "no_pico": true,
-     "nivel_pico": 0.04,
-     "atencao": false
-    },
-    {
-     "data": "2026-11-15",
-     "dow": "Dom",
-     "hora_baixamar": 12,
-     "inicio": null,
-     "fim": null,
-     "nivel_min": 0.08,
-     "baixamar_real": {
-      "hora": 12,
-      "nivel": 0.08
-     },
-     "no_pico": true,
-     "nivel_pico": 0.08,
-     "atencao": false
-    },
-    {
-     "data": "2026-11-16",
-     "dow": "Seg",
-     "hora_baixamar": 13,
-     "inicio": null,
-     "fim": null,
-     "nivel_min": 0.03,
-     "baixamar_real": {
-      "hora": 13,
-      "nivel": 0.03
-     },
-     "no_pico": true,
-     "nivel_pico": 0.03,
-     "atencao": false
-    },
-    {
-     "data": "2026-11-17",
-     "dow": "Ter",
-     "hora_baixamar": 15,
-     "inicio": null,
-     "fim": null,
-     "nivel_min": -0.02,
-     "baixamar_real": {
-      "hora": 15,
-      "nivel": -0.02
-     },
-     "no_pico": true,
-     "nivel_pico": -0.02,
-     "atencao": false
-    },
-    {
-     "data": "2026-11-18",
-     "dow": "Qua",
-     "hora_baixamar": 16,
-     "inicio": null,
-     "fim": null,
-     "nivel_min": -0.12,
-     "baixamar_real": {
-      "hora": 16,
-      "nivel": -0.12
-     },
-     "no_pico": true,
-     "nivel_pico": -0.12,
-     "atencao": false
-    },
-    {
-     "data": "2026-11-19",
-     "dow": "Qui",
-     "hora_baixamar": 17,
-     "inicio": null,
-     "fim": null,
-     "nivel_min": -0.14,
-     "baixamar_real": {
-      "hora": 17,
-      "nivel": -0.14
-     },
-     "no_pico": true,
-     "nivel_pico": -0.11,
-     "atencao": false
-    },
-    {
-     "data": "2026-11-20",
-     "dow": "Sex",
      "hora_baixamar": 18,
      "inicio": null,
      "fim": null,
-     "nivel_min": -0.11,
+     "nivel_min": -0.29,
      "baixamar_real": {
       "hora": 18,
-      "nivel": -0.11
+      "nivel": -0.29
      },
      "no_pico": false,
-     "nivel_pico": -0.01,
+     "nivel_pico": -0.04,
      "atencao": false
     }
    ]

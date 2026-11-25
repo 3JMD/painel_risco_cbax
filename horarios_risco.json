@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-24T14:45:54",
+ "gerado_em": "2026-11-25T14:02:33",
  "base": "praias com efeito de maré comprovado (q<0.05, |rho|>=0.10)",
  "cidades": [
   {
@@ -10,30 +10,15 @@
    "limiar_p33": -0.22,
    "janelas": [
     {
-     "data": "2026-11-24",
-     "dow": "Ter",
-     "hora_baixamar": 8,
-     "inicio": null,
-     "fim": null,
-     "nivel_min": -0.39,
-     "baixamar_real": {
-      "hora": 8,
-      "nivel": -0.39
-     },
-     "no_pico": false,
-     "nivel_pico": 0.06,
-     "atencao": false
-    },
-    {
      "data": "2026-11-25",
      "dow": "Qua",
      "hora_baixamar": 9,
      "inicio": null,
      "fim": null,
-     "nivel_min": -0.33,
+     "nivel_min": -0.32,
      "baixamar_real": {
       "hora": 9,
-      "nivel": -0.33
+      "nivel": -0.32
      },
      "no_pico": false,
      "nivel_pico": -0.07,
@@ -45,13 +30,13 @@
      "hora_baixamar": 10,
      "inicio": null,
      "fim": null,
-     "nivel_min": -0.16,
+     "nivel_min": -0.15,
      "baixamar_real": {
       "hora": 10,
-      "nivel": -0.16
+      "nivel": -0.15
      },
      "no_pico": true,
-     "nivel_pico": -0.06,
+     "nivel_pico": -0.05,
      "atencao": false
     },
     {
@@ -60,13 +45,13 @@
      "hora_baixamar": 11,
      "inicio": null,
      "fim": null,
-     "nivel_min": -0.07,
+     "nivel_min": -0.08,
      "baixamar_real": {
       "hora": 11,
-      "nivel": -0.07
+      "nivel": -0.08
      },
      "no_pico": true,
-     "nivel_pico": -0.07,
+     "nivel_pico": -0.08,
      "atencao": false
     },
     {
@@ -75,13 +60,13 @@
      "hora_baixamar": 11,
      "inicio": null,
      "fim": null,
-     "nivel_min": -0.04,
+     "nivel_min": -0.05,
      "baixamar_real": {
       "hora": 11,
-      "nivel": -0.04
+      "nivel": -0.05
      },
      "no_pico": true,
-     "nivel_pico": -0.04,
+     "nivel_pico": -0.05,
      "atencao": false
     },
     {
@@ -90,13 +75,13 @@
      "hora_baixamar": 12,
      "inicio": null,
      "fim": null,
-     "nivel_min": 0.02,
+     "nivel_min": 0.04,
      "baixamar_real": {
       "hora": 12,
-      "nivel": 0.02
+      "nivel": 0.04
      },
      "no_pico": true,
-     "nivel_pico": 0.02,
+     "nivel_pico": 0.04,
      "atencao": false
     },
     {
@@ -105,13 +90,28 @@
      "hora_baixamar": 13,
      "inicio": null,
      "fim": null,
-     "nivel_min": -0.02,
+     "nivel_min": 0.0,
      "baixamar_real": {
       "hora": 13,
-      "nivel": -0.02
+      "nivel": 0.0
      },
      "no_pico": true,
-     "nivel_pico": -0.02,
+     "nivel_pico": 0.0,
+     "atencao": false
+    },
+    {
+     "data": "2026-12-01",
+     "dow": "Ter",
+     "hora_baixamar": 15,
+     "inicio": null,
+     "fim": null,
+     "nivel_min": 0.01,
+     "baixamar_real": {
+      "hora": 15,
+      "nivel": 0.01
+     },
+     "no_pico": true,
+     "nivel_pico": 0.01,
      "atencao": false
     }
    ]
@@ -123,21 +123,6 @@
    ],
    "limiar_p33": -0.21,
    "janelas": [
-    {
-     "data": "2026-11-24",
-     "dow": "Ter",
-     "hora_baixamar": 8,
-     "inicio": null,
-     "fim": null,
-     "nivel_min": -0.38,
-     "baixamar_real": {
-      "hora": 8,
-      "nivel": -0.38
-     },
-     "no_pico": false,
-     "nivel_pico": 0.07,
-     "atencao": false
-    },
     {
      "data": "2026-11-25",
      "dow": "Qua",
@@ -159,13 +144,13 @@
      "hora_baixamar": 10,
      "inicio": null,
      "fim": null,
-     "nivel_min": -0.14,
+     "nivel_min": -0.13,
      "baixamar_real": {
       "hora": 10,
-      "nivel": -0.14
+      "nivel": -0.13
      },
      "no_pico": true,
-     "nivel_pico": -0.04,
+     "nivel_pico": -0.03,
      "atencao": false
     },
     {
@@ -174,28 +159,28 @@
      "hora_baixamar": 11,
      "inicio": null,
      "fim": null,
-     "nivel_min": -0.07,
+     "nivel_min": -0.08,
      "baixamar_real": {
       "hora": 11,
-      "nivel": -0.07
+      "nivel": -0.08
      },
      "no_pico": true,
-     "nivel_pico": -0.07,
+     "nivel_pico": -0.08,
      "atencao": false
     },
     {
      "data": "2026-11-28",
      "dow": "Sáb",
-     "hora_baixamar": 12,
+     "hora_baixamar": 11,
      "inicio": null,
      "fim": null,
-     "nivel_min": -0.03,
+     "nivel_min": -0.05,
      "baixamar_real": {
-      "hora": 12,
-      "nivel": -0.03
+      "hora": 11,
+      "nivel": -0.05
      },
      "no_pico": true,
-     "nivel_pico": -0.03,
+     "nivel_pico": -0.05,
      "atencao": false
     },
     {
@@ -204,13 +189,13 @@
      "hora_baixamar": 12,
      "inicio": null,
      "fim": null,
-     "nivel_min": 0.01,
+     "nivel_min": 0.04,
      "baixamar_real": {
       "hora": 12,
-      "nivel": 0.01
+      "nivel": 0.04
      },
      "no_pico": true,
-     "nivel_pico": 0.01,
+     "nivel_pico": 0.04,
      "atencao": false
     },
     {
@@ -219,13 +204,28 @@
      "hora_baixamar": 13,
      "inicio": null,
      "fim": null,
-     "nivel_min": -0.03,
+     "nivel_min": 0.0,
      "baixamar_real": {
       "hora": 13,
-      "nivel": -0.03
+      "nivel": 0.0
      },
      "no_pico": true,
-     "nivel_pico": -0.03,
+     "nivel_pico": 0.0,
+     "atencao": false
+    },
+    {
+     "data": "2026-12-01",
+     "dow": "Ter",
+     "hora_baixamar": 14,
+     "inicio": null,
+     "fim": null,
+     "nivel_min": 0.0,
+     "baixamar_real": {
+      "hora": 14,
+      "nivel": 0.0
+     },
+     "no_pico": true,
+     "nivel_pico": 0.0,
      "atencao": false
     }
    ]
